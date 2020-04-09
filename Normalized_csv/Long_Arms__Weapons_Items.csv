@@ -1,0 +1,204 @@
+Name|Category|Level|Price|Damage|Range|Critical|Capacity|Usage|Bulk|Special|Proficiency|Hands
+Needler Rifle|—|1|110|1d6 P|60 ft.|injection DC +2|12 darts|1|1|analog, injection|Long Arms|2
+Caustolance, Liquidator|—|1|400|1d6 A|60 ft.|Injection DC +2|20 charges|1|1|Injection|Long Arms|2
+Needler Rifle, Tactical|—|1|200|1d6 P|70 ft.|Injection DC +2|14 darts|1|1|Analog, injection|Long Arms|2
+Needler Rifle, Advanced|—|5|3,000|1d8 P|70 ft.|Injection DC +2|14 darts|1|1|Analog, injection|Long Arms|2
+Caustolance, Decimator|—|6|4,500|2d6 A|60 ft.|Injection DC +2|20 charges|1|1|Injection|Long Arms|2
+Nanite Thrower, Tactical|—|9|13,300|—|60 ft.|wound|10 nanites|1|1|deconstruct 2d6|Long Arms|2
+Needler Rifle, Elite|—|10|18,000|4d6 P|70 ft.|Injection DC +2|14 darts|1|1|Analog, injection|Long Arms|2
+Caustolance, Executioner|—|12|38,000|5d6 A|60 ft.|Injection DC +2|20 charges|1|1|Injection|Long Arms|2
+Nanite Thrower, Advanced|—|12|35,400|—|60 ft.|wound|10 nanites|1|1|deconstruct 3d6|Long Arms|2
+Nanite Thrower, Elite|—|15|110,000|—|80 ft.|severe wound|10 nanites|2|1|deconstruct 4d6|Long Arms|2
+Needler Rifle, Paragon|—|15|110,000|8d6 P|70 ft.|Injection DC +2|14 darts|1|1|Analog, injection|Long Arms|2
+Caustolance, Eradicator|—|18|400,000|12d6 A|60 ft.|Injection DC +2|20 charges|1|1|Injection|Long Arms|2
+Nanite Thrower, Paragon|—|20|830,000|—|80 ft.|severe wound|10 nanites|2|1|deconstruct 5d6|Long Arms|2
+Needler Rifle, Supreme|—|20|850,000|16d6 P|70 ft.|Injection DC +2|14 darts|1|1|Analog, injection|Long Arms|2
+Numbing Beam, Tactical|Cryo|1|370|1d6 C|50 ft.|staggered|20 charges|1|1|nonlethal|Long Arms|2
+Ice Carbine, Subzero|Cryo|2|510|1d8 C & P|60 ft.|—|20 charges|2|2|automatic|Long Arms|2
+Void Rifle, Grave-Class|Cryo|2|1,020|1d6 C|60 ft.|suffocate|20 charges|1|1|antibiological|Long Arms|2
+Frailty Rifle, Atrophy-Class|Cryo|3|1,650|1d6 C|60 ft.|—|20 charges|2|1|necrotic|Long Arms|2
+Freeze Ray, Hiemal|Cryo|3|1,420|1d4 C|30 ft.|staggered|20 charges|4|2|line, unwieldy|Long Arms|2
+Zero Rifle, Frostbite-Class|Cryo|4|2,330|1d8 C|60 ft.|staggered|40 charges|2|1|—|Long Arms|2
+Numbing Beam, Advanced|Cryo|5|3,050|1d8 C|50 ft.|staggered|20 charges|1|1|nonlethal|Long Arms|2
+Frost Projector, Frostbite-Class|Cryo|6|5,100|1d10 C|30 ft.|staggered|40 charges|2|1|integrated (2 slots)|Long Arms|2
+Void Rifle, Crypt-Class|Cryo|6|4,400|1d8 C|60 ft.|suffocate|20 charges|1|1|antibiological|Long Arms|2
+Frailty Rifle, Rot-Class|Cryo|7|7,700|2d6 C|60 ft.|—|20 charges|2|2|necrotic|Long Arms|2
+Freeze Ray, Algid|Cryo|7|6,300|2d4 C|30 ft.|staggered|20 charges|4|2|line, unwieldy|Long Arms|2
+Zero Rifle, Hailstorm-Class|Cryo|8|10,100|2d8 C|60 ft.|staggered|40 charges|2|2|—|Long Arms|2
+Ice Carbine, Gelid|Cryo|9|12,400|3d8 C & P|60 ft.|—|40 charges|2|2|automatic|Long Arms|2
+Numbing Beam, Elite|Cryo|10|18,000|3d6 C|80 ft.|staggered|20 charges|1|1|nonlethal|Long Arms|2
+Freeze Ray, Glacial|Cryo|11|24,800|5d4 C|40 ft.|staggered|20 charges|4|2|line, unwieldy|Long Arms|2
+Void Rifle, Tomb-Class|Cryo|11|26,300|2d10 C|80 ft.|suffocate|40 charges|2|1|antibiological|Long Arms|2
+Frost Projector, Hailstorm-Class|Cryo|12|42,000|2d10 C|30 ft.|staggered|40 charges|2|1|integrated (2 slots)|Long Arms|2
+Frailty Rifle, Blight-Class|Cryo|13|57,200|4d6 C|60 ft.|—|40 charges|4|2|necrotic|Long Arms|2
+Ice Carbine, Ultracold|Cryo|13|47,100|6d6 C & P|80 ft.|—|40 charges|2|2|automatic|Long Arms|2
+Zero Rifle, Blizzard-Class|Cryo|14|79,800|4d8 C|60 ft.|staggered|80 charges|4|2|—|Long Arms|2
+Numbing Beam, Paragon|Cryo|15|112,000|6d6 C|80 ft.|staggered|20 charges|1|1|nonlethal|Long Arms|2
+Freeze Ray, Isothermal|Cryo|16|165,000|5d8 C|40 ft.|staggered|20 charges|4|2|line, unwieldy|Long Arms|2
+Void Rifle, Ossuary-Class|Cryo|16|182,000|4d10 C|100 ft.|suffocate|40 charges|1|1|antibiological|Long Arms|2
+Frailty Rifle, Epidemic-Class|Cryo|17|297,000|7d6 C|60 ft.|—|50 charges|5|2|necrotic|Long Arms|2
+Ice Carbine, Absolute-Zero|Cryo|17|218,000|11d6 C & P|80 ft.|—|40 charges|2|2|automatic|Long Arms|2
+Zero Rifle, Avalanche-Class|Cryo|18|410,200|7d8 C|60 ft.|staggered|100 charges|5|2|—|Long Arms|2
+Frost Projector, Blizzard-Class|Cryo|19|680,000|5d10 C|30 ft.|staggered|40 charges|2|1|integrated (2 slots)|Long Arms|2
+Void Rifle, Barrow-Class|Cryo|19|606,000|6d10 C|100 ft.|suffocate|80 charges|2|1|antibiological|Long Arms|2
+Freeze Ray, Hypothermic|Cryo|20|818,000|5d12 C|50 ft.|staggered|20 charges|4|2|line, unwieldy|Long Arms|2
+[Relics do not sell for full resale value, but can be sold for 50% of their value instead of 10%. Relics do not come with ammunition (which must be purchased separately).] Disruption Rifle, Minor|Dimensional Disruption|9|15,000|3d8 So|50 ft.|staggered|40 charges|5|2|boost 1d8, relic|Long Arms|2
+[Relics do not sell for full resale value, but can be sold for 50% of their value instead of 10%. Relics do not come with ammunition (which must be purchased separately).] Disruption Rifle, Major|Dimensional Disruption|14|80,000|6d8 So|40 ft.|staggered|40 charges|5|2|boost 2d8, relic|Long Arms|2
+Dross Gun, Scrapper|Disintegrator|2|720|1d6 A|15 ft.|—|20 charges|1|1|penetrating|Long Arms|2
+Dross Gun, Scoring|Disintegrator|5|3,300|1d8 A|20 ft.|wound|20 charges|2|1|penetrating|Long Arms|2
+Disintegrator Rifle, Liquidator|Disintegrator|6|4,740|1d20 A|30 ft.|corrode 1d6|40 charges|4|2|—|Long Arms|2
+Dross Gun, Flux|Disintegrator|10|19,200|2d12 A|20 ft.|severe wound|20 charges|4|1|penetrating|Long Arms|2
+Disintegrator Rifle, Decimator|Disintegrator|11|29,000|3d10 A|30 ft.|corrode 2d6|40 charges|4|2|—|Long Arms|2
+Disintegrator Rifle, Executioner|Disintegrator|16|210,000|5d10 A|30 ft.|corrode 3d6|80 charges|8|2|—|Long Arms|2
+Disintegrator Rifle, Eradicator|Disintegrator|20|745,000|5d20 A|30 ft.|corrode 4d6|80 charges|8|2|—|Long Arms|2
+Gulchgun|Flame|1|90|1d8 F|20 ft.|burn 1d6|4 shells|1|1|analog|Long Arms|2
+Flame Rifle|Flame|2|490|1d6 F|25 ft.|burn 1d6|20 petrol|5|1|line, unwieldy|Long Arms|2
+Flare Rifle, Dazzler|Flame|3|445|2d4 F|60 ft.|burn 1d6|8 flares|1|1|analog, bright, harrying|Long Arms|2
+Blaze Rifle, Ifrit-Class|Flame|4|1,900|1d10 F|40 ft.|burn 1d6|40 petrol|2|1|analog, unwieldy|Long Arms|2
+Petrol Converter, Light|Flame|4|2,150|"1d8 F|a"|40 ft.|—|40 petrol|2|1|analog, modal (disintegrator)|Long Arms|2
+Dragon Rifle, Wyrmling|Flame|5|3,020|1d8 F|6 ft.|burn 1d4|20 petrol|1|1|automatic|Long Arms|2
+Flare Rifle, Vivifier|Flame|6|3,600|1d10 F|80 ft.|burn 2d4|8 flares|1|1|analog, bright, harrying|Long Arms|2
+Blaze Rifle, Salamander-Class|Flame|7|5,800|2d8 F|60 ft.|burn 2d6|40 petrol|2|1|analog, unwieldy|Long Arms|2
+Petrol Converter, Tactical|Flame|7|6,750|"2d6 F|a"|80 ft.|—|40 petrol|4|1|analog, modal (disintegrator)|Long Arms|2
+Igniter, Ember|Flame|8|9,900|—|80 ft.|burn 2d6|40 charges|4|1|ignite 2d6|Long Arms|2
+Dragon Rifle, Drake|Flame|9|13,400|3d6 F|60 ft.|burn 2d4|20 petrol|1|1|automatic|Long Arms|2
+Flare Rifle, Coruscator|Flame|10|15,700|5d4 F|80 ft.|burn 2d6|12 flares|2|1|analog, bright, harrying|Long Arms|2
+Petrol Converter, Advanced|Flame|10|18,500|"3d6 F|a"|80 ft.|—|40 petrol|1|1|analog, modal (disintegrator)|Long Arms|2
+Blaze Rifle, Hellhound-Class|Flame|11|23,200|3d10 F|60 ft.|burn 3d6|40 petrol|2|1|analog, unwieldy|Long Arms|2
+Igniter, Blaze|Flame|12|34,200|—|80 ft.|burn 3d6|40 charges|4|1|ignite 3d6|Long Arms|2
+Flare Rifle, Scorcher|Flame|13|43,800|7d4 F|80 ft.|burn 3d6|12 flares|3|1|analog, bright, harrying|Long Arms|2
+Dragon Rifle, Wyvern|Flame|14|72,200|6d6 F|80 ft.|burn 3d5|20 petrol|1|1|automatic|Long Arms|2
+Petrol Converter, Elite|Flame|14|76,500|"5d6 F|a"|80 ft.|—|40 petrol|2|1|analog, modal (disintegrator)|Long Arms|2
+Igniter, Inferno|Flame|15|108,000|—|80 ft.|burn 4d6|40 charges|4|1|ignite 4d6|Long Arms|2
+Blaze Rifle, Firedrake-Class|Flame|16|153,000|5d10 F|60 ft.|burn 4d6|40 petrol|2|1|analog, unwieldy|Long Arms|2
+Flare Rifle, Nova|Flame|17|201,000|12d4 F|100 ft.|burn 4d6|12 flares|4|1|analog, bright, harrying|Long Arms|2
+Igniter, Solar Flare|Flame|18|360,000|—|80 ft.|burn 5d6|40 charges|4|1|ignite 5d6|Long Arms|2
+Petrol Converter, Paragon|Flame|18|385,000|"9d6 F|a"|80 ft.|—|40 petrol|2|1|analog, modal (disintegrator)|Long Arms|2
+Dragon Rifle, True |Flame|19|559,000|11d6 F|100 ft.|burn 4d4|20 petrol|1|1|automatic|Long Arms|2
+Blaze Rifle, Pheonix-Class|Flame|20|765,000|9d10 F|80 ft.|burn 5d6|40 petrol|2|1|analog, unwieldy|Long Arms|2
+Laser Rifle, Azimuth|Laser|1|425|1d8 F|120 ft.|burn 1d6|20 charges|1|1|—|Long Arms|2
+Serpent Laser, Azimuth|Laser|2|500|2d4 F|100 ft.|burn 1d4|20 charges|10|1|—|Long Arms|2
+Infinity Rifle, tactical|Laser|3|1,300|1d6 F|40 ft.|—|20 charges|1|1|boost 16|Long Arms|2
+Excavation Laser, Light|Laser|4|2,050|1d10 F|60 ft.|—|40 charges|2|2|penetrating, professional (mining)|Long Arms|2
+Serpent Laser, Corona|Laser|5|2,700|2d6 F|100 ft.|burn 2d4|40 charges|20|1|—|Long Arms|2
+Laser Rifle, Corona|Laser|6|4,650|2d6 F|120 ft.|burn 1d6|40 charges|1|1|—|Long Arms|2
+Infinity Rifle, Advanced|Laser|7|6,100|2d4 F|60 ft.|—|20 charges|1|1|boost 2d4|Long Arms|2
+Serpent Laser, Aphelion|Laser|8|8,800|2d8 F|120 ft.|burn 3d4|40 charges|20|1|—|Long Arms|2
+Laser Rifle, Aphelion|Laser|9|14,300|3d6 F|120 ft.|burn 1d6|40 charges|1|1|—|Long Arms|2
+Infinity Rifle, Elite|Laser|10|17,100|2d6 F|80 ft.|—|20 charges|1|1|boost 2d6|Long Arms|2
+Autobeam Rifle, Tactical|Laser|11|26,900|5d4 F|60 ft.|burn 2d4|40 charges|4|2|automatic|Long Arms|2
+Excavation Laser, Medium|Laser|12|36,000|3d10 F|60 ft.|—|40 charges|2|2|penetrating, professional (mining)|Long Arms|2
+Laser Rifle, Perihelion|Laser|13|53,800|5d6 F|130 ft.|burn 2d6|100 charges|2|1|—|Long Arms|2
+Serpent Laser, Perihelion|Laser|14|66,000|3d12 F|120 ft.|burn 4d4|40 charges|20|1|—|Long Arms|2
+Autobeam Rifle, Advanced|Laser|15|95,500|7d4 F|60 ft.|burn 3d4|100 charges|10|2|automatic|Long Arms|2
+Infinity Rifle, Paragon|Laser|16|155,000|4d6 F|100 ft.|—|20 charges|1|1|boost 4d6|Long Arms|2
+Laser Rifle, Parallax|Laser|17|248,000|8d6 F|150 ft.|burn 4d6|100 charges|2|1|—|Long Arms|2
+Excavation Laser, Heavy|Laser|18|380,000|6d10 F|60 ft.|—|80 charges|4|2|penetrating, professional (mining)|Long Arms|2
+Autobeam Rifle, Elite|Laser|19|548,100|12d4 F|60 ft.|burn 5d4|100 charges|5|2|automatic|Long Arms|2
+Laser Rifle, Zenith|Laser|20|722,000|11d6 F|150 ft.|burn 5d6|100 charges|2|1|—|Long Arms|2
+Plasma Bolter, Tactical|Plasma|1|260|1d10 E & F|40 ft.|—|20 charges|4|2|unwieldy|Long Arms|2
+Nova Rifle, Red Star|Plasma|2|940|1d6 E & F|30 ft.|blind|20 charges|2|1|line, unwieldy|Long Arms|2
+Plasma Fork, 12-Notch|Plasma|3|1,290|1d8 E & F|60 ft.|knockdown|20 charges|1|1|boost 1d4|Long Arms|2
+Microfusion Rifle, Light|Plasma|4|2,350|1d8 E & F|15 ft.|irradiate|40 charges|4|1|blast, radioactive, unwieldy|Long Arms|2
+Plasma Bolter, Advanced|Plasma|5|3,010|2d8 E & F|60 ft.|wound|40 charges|8|2|unwieldy|Long Arms|2
+Plasma Rifle, Red Star|Plasma|6|4,600|1d10 E & F|40 ft.|burn 1d4|40 charges|4|2|line, unwieldy|Long Arms|2
+Nova Rifle, Yellow Star|Plasma|7|6,800|2d6 E & F|60 ft.|blind|40 charges|4|1|line, unwieldy|Long Arms|2
+Plasma Fork, 15-Notch|Plasma|8|8,850|1d10 E & F|80 ft.|knockdown|20 charges|1|1|boost 1d10|Long Arms|2
+Plasma Bolter, Elite|Plasma|9|14,000|3d10 E & F|60 ft.|wound|40 charges|4|2|unwieldy|Long Arms|2
+Plasma Rifle, Yellow Star|Plasma|10|16,800|2d10 E & F|40 ft.|burn 1d8|40 charges|4|2|line, unwieldy|Long Arms|2
+Nova Rifle, White Star|Plasma|11|25,300|3d6 E & F|80 ft.|blind|40 charges|4|1|line, unwieldy|Long Arms|2
+Microfusion Rifle, Medium|Plasma|12|40,800|3d8 E & F|30 ft.|irradiate|40 charges|4|1|blast, radioactive, unwieldy|Long Arms|2
+Plasma Caster, White Star|Plasma|13|49,100|3d10 E & F|80 ft.|burn 1d10|100 charges|5|2|boost 1d10|Long Arms|2
+Plasma Fork, 19-Notch|Plasma|14|64,800|3d10 E & F|80 ft.|knockdown|40 charges|2|1|boost 2d10|Long Arms|2
+Plasma Rifle, White Star|Plasma|15|126,600|4d10 E & F|60 ft.|burn 2d8|40 charges|4|2|line, unwieldy|Long Arms|2
+Plasma Bolter, Paragon|Plasma|16|170,000|9d8 E & F|60 ft.|wound|80 charges|4|2|unwieldy|Long Arms|2
+Plasma Caster, Blue Star|Plasma|17|275,000|5d10 E & F|80 ft.|burn 2d10|200 charges|10|2|boost 2d10|Long Arms|2
+Microfusion Rifle, Heavy|Plasma|18|410,000|5d8 E & F|40 ft.|irradiate|40 charges|4|1|blast, radioactive, unwieldy|Long Arms|2
+Plasma Fork, 22-Notch|Plasma|19|750,000|6d10 E & F|100 ft.|knockdown|40 charges|2|1|boost 3d10|Long Arms|2
+Plasma Rifle, Blue Star|Plasma|20|935,000|8d10 E & F|100 ft.|burn 4d8|100 charges|10|2|line, unwieldy|Long Arms|2
+Hunting Rifle|Projectile|1|240|1d8 P|90 ft.|—|6 rounds|1|1|analog|Long Arms|2
+Scattergun, Utility|Projectile|1|235|1d4 P|15 ft.|—|4 shells|1|1|analog, blast|Long Arms|2
+Autotarget Rifle|Projectile|2|755|1d6 P|60 ft.|—|10 rounds|1|2|analog, automatic|Long Arms|2
+Acid Dart Rifle, Tactical|Projectile|2|485|1d8 A & P|80 ft.|corrode 1d4|10 darts|1|1|analog|Long Arms|2
+Cinder Rifle, Truth-Sequence|Projectile|2|700|1d8 P|60 ft.|burn 1d6|10 rounds|1|2|—|Long Arms|2
+Crossbolter, Tactical|Projectile|2|475|1d10 P|70 ft.|—|1 arrow|1|2|unwieldy|Long Arms|2
+Huchket Rifle|Projectile|3|1,400|1d10 P|80 ft.|wound|6 rounds|1|1|analog|Long Arms|2
+Aeon Guard, Assault Rifle|Projectile|3|1,400|1d8 P|80 ft.|—|12 rounds|1|1|automatic|Long Arms|2
+Kalo Shredder, Slipstream-Class|Projectile|3|1,610|1d6 S|30 ft.|bleed 1d4|8 flechettes|1|1|analog, automatic, underwater|Long Arms|2
+Rail Gun, Tactical|Projectile|3|1,150|1d8 P|60 ft.|—|12 rounds|1|1|automatic|Long Arms|2
+Breaching Gun, Utility|Projectile|4|2,350|1d10 P|20 ft.|knockdown|4 shells|1|1|analog, breach, penetrating|Long Arms|2
+Rocket Rifle|Projectile|5|3,010|1d12 B|80 ft.|—|5 mini-rockets|1|1|analog, unwieldy|Long Arms|2
+Rail Gun, Advanced|Projectile|6|3,770|1d10 P|60 ft.|—|15 rounds|1|1|automatic|Long Arms|2
+Acid Dart Rifle, Dual|Projectile|7|6,900|2d8 A & P|90 ft.|corrode 2d4|24 darts|2|1|analog|Long Arms|2
+Aeon Guard, Accelerator Rifle|Projectile|7|7,500|3d4 P|60 ft.|—|16 rounds|1|2|automatic|Long Arms|2
+Breaching Gun, Snub|Projectile|7|6,800|2d10 P|20 ft.|knockdown|8 shells|2|1|analog, breach, penetrating|Long Arms|2
+Cinder Rifle, Salvation-Sequence|Projectile|7|6,000|2d8 P|60 ft.|burn 1d6|14 rounds|1|2|—|Long Arms|2
+Kalo Shredder, Cascade-Class|Projectile|7|6,630|2d6 S|40 ft.|bleed 1d6|16 flechettes|1|1|analog, automatic, underwater|Long Arms|2
+Seeker Rifle, Tactical|Projectile|7|6,030|2d8 P|100 ft.|—|8 rounds|1|1|analog|Long Arms|2
+Crossbolter, Dual|Projectile|8|8,250|2d10 P|70 ft.|—|4 arrows|2|2|unwieldy|Long Arms|2
+Scattergun, Snub|Projectile|8|8,300|1d12 P|15 ft.|—|8 shells|1|1|analog, blast|Long Arms|2
+Magnetar Rifle, Tactical|Projectile|9|11,800|2d8 P|60 ft.|—|18 rounds|1|2|analog, automatic|Long Arms|2
+Combat Rifle|Projectile|10|16,500|3d8 P|90 ft.|—|12 rounds|1|1|analog|Long Arms|2
+Aeon Guard, RPPR|Projectile|10|21,000|2d12 B|100 ft.|knockdown|12 mini-rockets|1|2|—|Long Arms|2
+Breaching Gun, Impact|Projectile|11|25,300|3d10 P|30 ft.|knockdown|12 shells|2|1|analog, breach, penetrating|Long Arms|2
+Cinder Rifle, Valor-Sequence|Projectile|11|23,700|3d8 P|80 ft.|burn 2d6|20 rounds|1|2|—|Long Arms|2
+Kalo Shredder, Torrent-Class|Projectile|11|26,700|4d6 S|40 ft.|bleed 3d4|24 flechettes|1|1|analog, automatic, underwater|Long Arms|2
+Acid Dart Rifle, Complex|Projectile|12|39,200|4d8 A & P|90 ft.|corrode 4d4|48 darts|4|2|analog|Long Arms|2
+Scattergun, Impact|Projectile|12|30,400|2d12 P|15 ft.|—|12 shells|1|2|analog, blast|Long Arms|2
+Gyrojet Rifle, Tactical|Projectile|13|54,000|3d12 B|100 ft.|knockdown|12 mini-rockets|1|2|analog|Long Arms|2
+Magnetar Rifle, Advanced|Projectile|13|53,700|4d8 P|60 ft.|—|24 rounds|1|2|analog, automatic|Long Arms|2
+Kalo Shredder, Deluge-Class|Projectile|14|74,300|6d6 S|60 ft.|bleed 4d4|36 flechettes|1|1|analog, automatic, underwater|Long Arms|2
+Seeker Rifle, Advanced|Projectile|14|72,300|6d8 P|100 ft.|—|18 rounds|1|1|analog|Long Arms|2
+Breaching Gun, Vortex|Projectile|15|119,000|6d10 P|30 ft.|knockdown|16 shells|2|1|analog, breach, penetrating|Long Arms|2
+Cinder Rifle, Glory-Sequence|Projectile|15|102,200|6d8 P|80 ft.|burn 2d6|24 rounds|1|2|—|Long Arms|2
+Gyrojet Rifle, Advanced|Projectile|15|122,800|5d12 B|120 ft.|knockdown|12 mini-rockets|1|2|analog|Long Arms|2
+Scattergun, Vortex|Projectile|15|91,900|3d12 P|30 ft.|—|12 shells|1|2|analog, blast|Long Arms|2
+Magnetar Rifle, Elite|Projectile|16|185,100|6d8 P|120 ft.|—|36 rounds|1|2|analog, automatic|Long Arms|2
+Gyrojet Rifle, Elite|Projectile|17|245,600|6d12 B|120 ft.|knockdown|12 mini-rockets|1|2|analog|Long Arms|2
+Kalo Shredder, Monsoon-Class|Projectile|17|784,000|12d6 S|60 ft.|bleed 4d6|48 flechettes|1|1|analog, automatic, underwater|Long Arms|2
+Seeker Rifle, Elite|Projectile|17|242,500|9d8 P|100 ft.|—|18 rounds|1|1|analog|Long Arms|2
+Scattergun, Grapeshot|Projectile|18|331,000|4d12 P|30 ft.|—|12 shells|1|2|analog, blast|Long Arms|2
+Breaching Gun, Grapeshot|Projectile|19|509,000|10d10 P|30 ft.|knockdown|20 shells|2|1|analog, breach, penetrating|Long Arms|2
+Magnetar Rifle, Paragon|Projectile|19|612,600|8d8 P|120 ft.|—|48 rounds|1|2|analog, automatic|Long Arms|2
+Gyrojet Rifle, Paragon|Projectile|20|723,500|8d12 B|120 ft.|knockdown|12 mini-rockets|1|2|analog|Long Arms|2
+Seeker Rifle, Paragon|Projectile|20|809,200|12d8 P|100 ft.|—|24 rounds|1|1|analog|Long Arms|2
+Pulsecaster Rifle|Shock|1|100|1d6 E|50 ft.|—|40 charges|2|1|nonlethal|Long Arms|2
+Arc Emitter, Tactical|Shock|2|750|1d4 E|15 ft.|—|20 charges|4|1|blast, stun, unwieldy|Long Arms|2
+Storm Coil, Live|Shock|3|1,480|1d6 E|40 ft.|—|20 charges|5|2|line, unwieldy|Long Arms|2
+Polarity Rifle, Static|Shock|4|2,400|1d8 E|60 ft.|—|40 charges|2|1|polarize 1d4|Long Arms|2
+Surgecaster, Standard|Shock|5|3,300|1d10 E|40 ft.|arc 1d10|20 charges|2|1|boost 1d6, living|Long Arms|2
+Arc Rifle, Static|Shock|6|4,200|1d12 E|70 ft.|arc 1d6|40 charges|1|2|stun|Long Arms|2
+Storm Coil, Jolt|Shock|7|6,900|2d6 E|60 ft.|—|40 charges|8|2|line, unwieldy|Long Arms|2
+Charge Emitter, Impulse|Shock|8|10,900|3d4 E|20 ft.|staggered|20 charges|2|1|integrated (1 slot), stun|Long Arms|2
+Arc Emitter, Advanced|Shock|9|13,200|2d4 E|30 ft.|—|40 charges|10|1|blast, stun, unwieldy|Long Arms|2
+Polarity Rifle, Aurora|Shock|10|21,000|2d8 E|80 ft.|—|40 charges|2|1|polarize 1d10|Long Arms|2
+Arc Rifle, Aurora|Shock|11|24,500|2d12 E|70 ft.|arc 2d6|40 charges|1|2|stun|Long Arms|2
+Storm Coil, Impulse|Shock|12|35,200|4d6 E|80 ft.|—|80 charges|10|2|line, unwieldy|Long Arms|2
+Charge Emitter, Jolt|Shock|13|57,000|3d10 E|30 ft.|staggered|20 charges|2|1|integrated (1 slot), stun|Long Arms|2
+Surgecaster, Advanced|Shock|14|83,000|3d10 E|60 ft.|arc 2d10|40 charges|2|1|boost 1d10, living|Long Arms|2
+Polarity Rifle, Storm|Shock|15|137,000|4d8 E|80 ft.|—|40 charges|2|1|polarize 2d8|Long Arms|2
+Arc Rifle, Storm|Shock|16|190,300|4d12 E|80 ft.|arc 4d6|80 charges|2|2|stun|Long Arms|2
+Storm Coil, Surge|Shock|17|261,000|7d6 E|120 ft.|—|100 charges|10|2|line, unwieldy|Long Arms|2
+Charge Emitter, Surge|Shock|18|435,000|5d10 E|40 ft.|staggered|80 charges|5|1|integrated (1 slot), stun|Long Arms|2
+Arc Rifle, Tempest|Shock|19|622,000|6d12 E|80 ft.|arc 6d6|100 charges|2|2|stun|Long Arms|2
+Polarity Rifle, Tempest|Shock|20|1,000,000|8d8 E|80 ft.|—|80 charges|2|1|polarize 3d8|Long Arms|2
+Shout Rifle|Sonic|1|450|1d4 So|30 ft.|demoralize|20 charges|4|1|blast, nonlethal, unwieldy|Long Arms|2
+Boomer Rifle, Tremor|Sonic|2|520|1d8 So|40 ft.|deafen|12 shells|3|1|analog|Long Arms|2
+Blindmark Rifle, Thunderstrike|Sonic|3|1,400|2d4 So|60 ft.|—|20 charges|2|1|echo, stun|Long Arms|2
+Staccato Rifle, Pulse|Sonic|4|2,000|1d10 So|40 ft.|deafen|40 charges|1|2|automatic|Long Arms|2
+Sonic Rifle, Thunderstrike|Sonic|5|3,400|1d10 So|50 ft.|deafen|40 charges|2|1|—|Long Arms|2
+Boomer Rifle, Rumbler|Sonic|6|4,100|2d6 So|40 ft.|deafen|12 shells|4|1|analog|Long Arms|2
+Streetsweeper, Thunderstrike|Sonic|7|7,150|1d10 So|50 ft.|knockdown|40 charges|5|2|boost 1d6|Long Arms|2
+Blindmark Rifle, LFD|Sonic|8|9,800|2d8 So|80 ft.|—|40 charges|5|1|echo, stun|Long Arms|2
+Staccato Rifle, Surge|Sonic|9|13,000|2d10 So|60 ft.|deafen|40 charges|2|2|automatic|Long Arms|2
+Sonic Rifle, LFD|Sonic|10|17,000|2d10 So|50 ft.|deafen|40 charges|2|2|—|Long Arms|2
+Boomer Rifle, Concussive|Sonic|11|24,000|4d6 So|40 ft.|knockdown|15 shells|5|1|analog|Long Arms|2
+Streetsweeper, LFD|Sonic|12|39,300|3d10 So|50 ft.|knockdown|40 charges|5|2|boost 1d8|Long Arms|2
+Blindmark Rifle, HFD|Sonic|13|51,000|4d8 So|100 ft.|sicken|40 charges|8|1|echo, stun|Long Arms|2
+Sonic Rifle, HFD|Sonic|14|80,200|4d10 So|50 ft.|deafen|80 charges|4|2|—|Long Arms|2
+Staccato Rifle, Drum|Sonic|15|107,000|4d10 So|60 ft.|deafen|40 charges|2|2|automatic|Long Arms|2
+Streetsweeper, HFD|Sonic|16|195,000|5d10 So|50 ft.|knockdown|40 charges|4|2|boost 1d10|Long Arms|2
+Boomer Rifle, Shockwave|Sonic|17|230,000|8d6 So|40 ft.|knockdown|20 shells|5|1|analog|Long Arms|2
+Sonic Rifle, Banshee|Sonic|18|364,500|6d10 So|50 ft.|deafen|100 charges|5|2|—|Long Arms|2
+Blindmark Rifle, Banshee|Sonic|19|585,000|8d8 So|120 ft.|sicken|80 charges|10|1|echo, stun|Long Arms|2
+Staccato Rifle, Hammer|Sonic|20|810,000|8d10 So|80 ft.|deafen|80 charges|4|2|automatic|Long Arms|2

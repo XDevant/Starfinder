@@ -1,0 +1,116 @@
+Name|Level|Price|Slots|Armor Type|Capacity|Usage|Bulk|Prerequisite
+Weapon Spikes|1|0|1|Heavy, Powered|—|—|0|Heavy, Powered
+Pet Carrier|1|100|1|Any|—|—|0.1|Light, Heavy, Powered
+Easy Access Kit|1|125|1|Any|—|—|0.1|Light, Heavy, Powered
+Grim Trophies (Magic)|1|125|1|Any|—|—|0|Light, Heavy, Powered
+Light Projector|1|150|1|Any|20|1/hour|1|Light, Heavy, Powered
+Tensile Reinforcement|1|150|1|Any|—|—|0|Light, Heavy, Powered
+Thermal Regulator (Hybrid)|1|150|1|Any|—|—|0.1|Light, Heavy, Powered
+[The skill bonus granted by concealed compartments is considered a circumstance bonus] Concealed Compartments|1|175|1|Any|—|—|0|Light, Heavy, Powered
+Infrared Sensors|1|200|1|Any|—|—|0.1|Light, Heavy, Powered
+Radiation Buffer|1|200|1|Any|—|—|0.1|Light, Heavy, Powered
+Leapers|1|205|1|Light|20|1|0|Light
+Slickskin|1|300|1|Light|—|—|0.1|Light
+Quick-Release Sheath|1|325|1|Any|—|—|0.1|Light, Heavy, Powered
+Agility Enhancer, Mk 1|1|375|1|Light, Heavy|—|—|0|Light, Heavy
+Stabilizer Springs|1|400|1|Light, Heavy|—|—|0|Light, Heavy
+Descent Thrusters|1|800|1|Any|—|—|0.1|Light, Heavy, Powered
+Snarl Barbs|1|1,500|1|Any|—|—|0.1|Light, Heavy, Powered
+Automated Loader|2|750|1|Powered|—|—|1|Powered
+Auto-CPR Unit|2|850|1|Any|—|—|0|Light, Heavy, Powered
+Jump Jets|2|1,000|1|Light, Heavy|20|2/action|0.1|Light, Heavy
+Thrower Arms|2|1,000|1|Any|—|—|0|Light, Heavy, Powered
+Juggernaut Boosters|3|1,200|1|Heavy, Powered|—|—|1|Heavy, Powered
+Quicksuit (Hybrid)|3|1,300|1|Light, Heavy|—|—|0|Light, Heavy
+Glamer Projector (Magic)|3|1,350|1|Light, Heavy|—|—|0.1|Light, Heavy
+Hydrojet|3|1,400|1|Light, Heavy|20|2/hour|0|Light, Heavy
+Mobility Enhancer, Mk 1|3|1,500|1|Heavy|—|—|0|Heavy
+Force Field, Brown|3|1,600|2|Any|—|—|0.1|Light, Heavy, Powered
+Exit Pod|4|1,750|1|Heavy, Powered|—|—|2|Heavy, Powered
+Hover Field|4|1,800|1|Light|—|—|0.1|Light
+Flashblinders, MK 1|4|2,000|1|Any|1|1|1|Light, Heavy, Powered
+Backup Generator|4|2,100|1|Any|—|—|1|Light, Heavy, Powered
+Longstrider Module|4|2,200|1|Light|—|—|0|Light
+Targeting Computer|4|2,250|1|Any|—|—|0|Light, Heavy, Powered
+Load Lifter|5|2,250|1|Any|—|—|0|Light, Heavy, Powered
+Rampart Plates|5|2,850|1|Heavy|—|—|1|Heavy
+Ghost Armor (Magic)|5|2,900|1|Any|—|—|0.1|Light, Heavy, Powered
+Agility Enhancer, Mk 2|5|3,000|1|Light, Heavy|—|—|0|Light, Heavy
+Electrostatic Field, MK 1|5|3,000|1|Any|—|—|0|Light, Heavy, Powered
+Jetpack|5|3,100|1|Light, Heavy|40|2/round|1|Light, Heavy
+Thermal Capacitor, MK 1|5|3,600|1|Any|—|—|0|Light, Heavy, Powered
+Brightlight Projector (Hybrid)|6|3,000|1|Any|20|1/hour|0|Light, Heavy, Powered
+Phase Shield|6|4,325|1|Heavy, Powered|40|2|1|Heavy, Powered
+Tactical Scaffold|6|4,450|2|Heavy|—|—|2|Heavy
+Endurance Module (Hybrid)|6|4,500|1|Any|1|1|0|Light, Heavy, Powered
+Force Field, Purple|6|4,550|2|Any|—|—|0.1|Light, Heavy, Powered
+Filtered Rebreather|6|4,600|1|Any|—|—|1|Light, Heavy, Powered
+Lightwrap Inlay|6|5,000|1|Any|10|1/round|0.1|Light, Heavy, Powered
+Computer Interface|7|6,000|1|Any|—|—|0.1|Light, Heavy, Powered
+Absorption Shield (Hybrid)|7|6,500|1|Heavy, Powered|40|10|1|Heavy, Powered
+Ferrofluid Suspension|7|6,500|1|Any|—|—|0|Light, Heavy, Powered
+Adaptive Defense, Mk 1 (Hybrid)|7|6,500|1|Any|—|—|0|Light, Heavy, Powered
+Microspur Spray (Hybrid)|7|6,700|1|Heavy, Powered|3|1|1|Heavy, Powered
+Auto-Injector|7|7,000|1|Any|—|—|0.1|Light, Heavy, Powered
+Sonic Dampener|7|7,150|1|Any|—|—|0.1|Light, Heavy, Powered
+Deflective Reinforcement|7|7,500|1|Any|—|—|1|Light, Heavy, Powered
+Explosive Defense Unit|8|9,000|1|Any|—|—|0|Light, Heavy, Powered
+Haste Circuit (Magic)|8|9,250|1|Light, Heavy|10|1/round|0.1|Light, Heavy
+Mobility Enhancer, Mk 2|8|9,500|1|Heavy|—|—|0|Heavy
+Flashblinders, MK 2|8|10,000|1|Any|1|1|1|Light, Heavy, Powered
+Grandchild's Cloak, Normal (Hybrid)|8|10,000|1|Light|10|3/round|0.1|Light
+Force Field, Black|8|10,500|2|Any|—|—|0.1|Light, Heavy, Powered
+Battery Unit|9|12,000|1|Any|—|—|0|Light, Heavy, Powered
+Haze Field (Hybrid)|9|13,000|1|Any|10|1/round|0|Light, Heavy, Powered
+Agility Enhancer, Mk 3|9|13,000|1|Light, Heavy|—|—|0|Light, Heavy
+Electrostatic Field, MK 2|9|13,000|1|Any|—|—|0|Light, Heavy, Powered
+Forcepack (Hybrid)|9|13,100|1|Light, Heavy|100|2/round|1|Light, Heavy
+Reaction Accelerator (Hybrid)|9|13,500|1|Any|—|—|0|Light, Heavy, Powered
+Medical Interface, Mk 1 (Hybrid)|9|14,000|1|Any|—|—|0|Light, Heavy, Powered
+Invisibility Detector (Hybrid)|10|17,000|1|Any|5|1/minute|0|Light, Heavy, Powered
+Adaptive Energy Shield|10|17,500|1|Any|—|—|0|Light, Heavy, Powered
+Holodouble Module (Hybrid)|10|18,000|1|Light, Heavy|10|1/round|0|Light, Heavy
+Courage Module (Hybrid)|10|18,300|1|Any|1|1|0|Light, Heavy, Powered
+Echolocation Detection Unit|10|19,000|1|Any|10|1/minute|0|Light, Heavy, Powered
+Force Field, White|10|20,000|2|Any|—|—|0.1|Light, Heavy, Powered
+Magic Resistor, Mk 1 (Magic)|11|2,350|1|Any|—|—|1|Light, Heavy, Powered
+Attractor Field (Hybrid)|11|24,000|1|Any|5|1|0|Light, Heavy, Powered
+Bodyguard Module (Magic)|11|24,400|1|Heavy, Powered|—|—|0|Heavy, Powered
+Lingual Scrambler (Hybrid)|12|32,800|1|Any|—|—|0.1|Light, Heavy, Powered
+Electrostatic Field, MK 3|12|35,000|1|Any|—|—|0|Light, Heavy, Powered
+Privacy Shield (Magic)|12|35,500|1|Any|—|—|0.1|Light, Heavy, Powered
+Thermal Capacitor, MK 2|12|36,250|1|Any|—|—|0|Light, Heavy, Powered
+Neutronium Shell (Hybrid)|12|37,500|2|Heavy, Powered|—|—|1|Heavy, Powered
+Flashblinders, MK 3|12|38,000|1|Any|1|1|1|Light, Heavy, Powered
+Force Field, Gray|12|40,000|2|Any|—|—|0.1|Light, Heavy, Powered
+Agility Enhancer, Mk 4|13|46,000|1|Light, Heavy|—|—|0|Light, Heavy
+Spell Reflector, MK 1 (Magic)|13|47,950|1|Light, Heavy|1|1|1|Light, Heavy
+Indomitability Module (Hybrid)|13|50,000|1|Any|1|1/day|0|Light, Heavy, Powered
+Teleportation Unit (Hybrid)|13|52,000|1|Any|2|1|1|Light, Heavy, Powered
+Magic Resistor, Mk 2 (Magic)|14|7,000|2|Any|—|—|2|Light, Heavy, Powered
+Life Shield (Magic)|14|64,000|1|Any|10|1/minute|0|Light, Heavy, Powered
+Fortified Plates, Mk 1|14|65,500|1|Heavy, Powered|—|—|2|Heavy, Powered
+Titan Shield|14|75,000|1|Powered|40|10|2|Powered
+Adaptive Defense, Mk 2 (Hybrid)|14|75,000|1|Any|—|—|0|Light, Heavy, Powered
+Force Field, Green|14|80,000|2|Any|—|—|0.1|Light, Heavy, Powered
+Medical Interface, Mk 2 (Hybrid)|15|100,000|1|Any|—|—|0|Light, Heavy, Powered
+Fortified Plates, Mk 2|15|104,000|1|Heavy, Powered|—|—|2|Heavy, Powered
+Desplacement Field (Hybrid)|15|120,000|2|Any|10|1/round|1|Light, Heavy, Powered
+Grandchild's Cloak, Greater (Hybrid)|15|120,000|1|Light|10|3/round|0.1|Light
+Thermal Capacitor, MK 3|15|120,000|1|Any|—|—|0|Light, Heavy, Powered
+Fortified Plates, Mk 3|16|151,000|1|Heavy, Powered|—|—|2|Heavy, Powered
+Flashblinders, MK 4|16|180,000|1|Any|1|1|1|Light, Heavy, Powered
+Force Field, Red|16|180,000|2|Any|—|—|0.1|Light, Heavy, Powered
+Agility Enhancer, Mk 5|17|216,000|1|Any|—|—|0|Light, Heavy, Powered
+Magic Resistor, Mk 3 (Magic)|17|240,000|2|Heavy, Powered|—|—|2|Heavy, Powered
+Adaptive Defense, Mk 3 (Hybrid)|17|250,000|1|Any|—|—|0|Light, Heavy, Powered
+Fortified Plates, Mk 4|17|262,000|1|Heavy, Powered|—|—|2|Heavy, Powered
+Force Field, Blue|17|280,000|2|Any|—|—|0.1|Light, Heavy, Powered
+Vibration Sensors|18|360,000|1|Any|—|—|0.1|Light, Heavy, Powered
+Spell Reflector, MK 2 (Magic)|18|360,000|1|Light, Heavy|1|1|1|Light, Heavy
+Force Field, Orange|18|400,000|2|Any|—|—|0.1|Light, Heavy, Powered
+Fortified Plates, Mk 5|19|550,000|1|Heavy, Powered|—|—|2|Heavy, Powered
+Ghostmarch Unit (Magic)|19|590,000|1|Light|5|1/round|1|Light
+Medical Interface, Mk 3 (Hybrid)|19|6,000,000|1|Any|—|—|0|Light, Heavy, Powered
+Magic Resistor, Mk 4 (Magic)|20|800,000|2|Heavy, Powered|—|—|2|Heavy, Powered
+Force Field, Prismatic|20|1,000,000|2|Any|—|—|0.1|Light, Heavy, Powered

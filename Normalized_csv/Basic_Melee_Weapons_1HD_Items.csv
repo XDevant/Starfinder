@@ -1,0 +1,74 @@
+Name|Category|Level|Price|Damage|Range|Critical|Capacity|Usage|Bulk|Special|Proficiency|Hands
+Unarmed Strike|—|—|0|1d3 B|-|—|-|-|0|archaic, nonlethal|Basic Melee Weapons|2
+Club|—|0|0|1d6 B|-|—|-|-|0.1|analog, archaic|Basic Melee Weapons|2
+Baton, Tactical|—|1|90|1d4 B|-|—|-|-|0.1|analog, operative|Basic Melee Weapons|2
+Battleglove, Cestus|—|1|100|1d4 B|-|—|-|-|0.1|analog|Basic Melee Weapons|2
+Handaxe, Basic|—|1|90|1d4 S|20 ft.|—|-|-|0.1|analog, thrown|Basic Melee Weapons|2
+Knife, Survival|—|1|95|1d4 S|-|—|-|-|0.1|analog, operative|Basic Melee Weapons|2
+Sword Cane, Tactical|—|1|250|1d4 P|-|bleed 1d3|-|-|0.1|analog, operative|Basic Melee Weapons|2
+Syringe Stick, Standard|—|1|125|1d3 P|-|—|-|-|0.1|conceal, injection, operative|Basic Melee Weapons|2
+Idaran Force Training Baton|—|2|400|1d4 B|-|—|20 charges|1|0.1|operative|Basic Melee Weapons|2
+Bone Cestus, Austere|—|2|600|1d6 P|-|bleed 1d4|-|-|0.1|analog|Basic Melee Weapons|2
+Dueling Sword, Tactical|—|2|475|1d6 S|-|—|-|-|0.1|analog|Basic Melee Weapons|2
+Sap, Light|—|2|450|1d4 B|-|—|-|-|0.1|analog, nonlethal, operative|Basic Melee Weapons|2
+Sledge|—|3|1,050|1d8 B|-|—|-|-|1|analog, unwieldy|Basic Melee Weapons|2
+Switchblade, Tactical|—|3|1,300|1d4 S|-|—|-|-|0.1|analog, conceal, operative|Basic Melee Weapons|2
+Inferno Knife|—|4|2,100|1d4 S|-|burn 1d6|-|-|0.1|analog, operative|Basic Melee Weapons|2
+Tailblade|—|4|2,300|1d4 S|-|—|-|-|0.1|analog, operative, tail|Basic Melee Weapons|2
+Dueling Sword (Corpse Fleet), Converted|—|4|2,100|1d8 S|-|—|-|-|0.1|analog|Basic Melee Weapons|2
+Handaxe, Tactical|—|4|1,825|1d6 S|20 ft.|—|-|-|0.1|analog, thrown|Basic Melee Weapons|2
+Sword Cane, Advanced|—|4|2,100|1d4 P|-|bleed 1d4|-|-|0.1|analog, operative|Basic Melee Weapons|2
+Retractable Spike, Tactical|—|5|3,150|1d4 P|-|—|-|-|0.1|conceal, integrated (1 slot), operative|Basic Melee Weapons|2
+Spined Blade, Basic|—|5|2,600|1d6 P|-|injection DC +2|-|-|0.1|analog|Basic Melee Weapons|2
+Syringe Stick, Sharp-pointed|—|5|2,650|1d4 P|-|Injection DC +2|-|-|0.1|conceal, injection, operative|Basic Melee Weapons|2
+Polyclub, Tactical|—|6|4,200|1d6 B|-|—|-|-|0.1|analog, operative, polymorphic|Basic Melee Weapons|2
+Sap, Medium|—|6|3,900|1d6 B|-|—|-|-|0.1|analog, nonlethal, operative|Basic Melee Weapons|2
+Shell Knuckles, Tactical|—|6|4,050|3d4 B|-|—|1 shell|1|0.1|analog|Basic Melee Weapons|2
+Hook Knife|—|7|6,300|1d8 S|-|bleed 1d6|-|-|0.1|analog|Basic Melee Weapons|2
+Bone Cestus, Measured|—|7|5,500|2d6 P|-|bleed 1d6|-|-|0.1|analog|Basic Melee Weapons|2
+Knife, Tactical|—|7|6,000|2d4 S|-|—|-|-|0.1|analog, operative|Basic Melee Weapons|2
+Sword Cane, Ultrathin|—|7|7,000|2d4 P|-|bleed 1d4|-|-|0.1|analog, operative|Basic Melee Weapons|2
+Dueling Sword, Buzzblade|—|8|9,500|2d6 S|-|—|20 charges|1|0.1||Basic Melee Weapons|2
+Spined Blade, Buzzblade|—|8|9,400|1d10 P|-|injection DC +2|20 charges|1|0.1||Basic Melee Weapons|2
+Switchblade, Ultrathin|—|8|9,100|2d4 S|-|—|-|-|0.1|analog, conceal, operative|Basic Melee Weapons|2
+Incapacitator|—|9|14,200|3d4 B|-|staggered|20 charges|2|0.1|nonlethal, operative|Basic Melee Weapons|2
+Handaxe, Sintered|—|9|12,500|2d6 S|30 ft.|—|-|-|0.1|analog, thrown|Basic Melee Weapons|2
+Syringe Stick, Hyper-pointed|—|9|12,000|2d4 P|-|Injection DC +2|-|-|0.1|conceal, injection, operative|Basic Melee Weapons|2
+Battleglove, Power|—|10|16,100|2d8 B|-|—|20 charges|1|0.1||Basic Melee Weapons|2
+Dueling Sword (Corpse Fleet), Officer|—|10|18,795|3d4 S|-|—|-|-|0.1|analog|Basic Melee Weapons|2
+Polyclub, Advanced|—|10|17,400|2d6 B|-|—|-|-|0.1|analog, operative, polymorphic|Basic Melee Weapons|2
+Retractable Spike, Advanced|—|10|18,400|3d4 P|-|—|-|-|0.1|conceal, integrated (1 slot), operative|Basic Melee Weapons|2
+Sword Cane, Zero-Edge|—|10|1,800|2d6 P|-|bleed 1d6|-|-|0.1|analog, operative|Basic Melee Weapons|2
+Dueling Sword, Ultrathin|—|11|26,000|3d6 S|-|—|-|-|0.1|analog|Basic Melee Weapons|2
+Sap, Heavy|—|11|23,100|2d8 B|-|—|-|-|0.1|analog, nonlethal, operative|Basic Melee Weapons|2
+Spined Blade, Ripper|—|11|24,500|2d10 P|-|injection DC +2|20 charges|1|0.1||Basic Melee Weapons|2
+Bone Cestus, Imposing|—|12|32,000|3d6 P|-|bleed 2d6|-|-|0.1|analog|Basic Melee Weapons|2
+Dagger, Ultrathin|—|12|32,800|4d4 S|-|—|-|-|0.1|analog, operative|Basic Melee Weapons|2
+Shell Knuckles, Advanced|—|12|32,500|4d8 B|-|—|2 shells|2|0.1|analog|Basic Melee Weapons|2
+Battleglove, Nova|—|13|52,500|3d10 B|-|—|20 charges|1|0.1||Basic Melee Weapons|2
+Switchblade, Zero-Edge|—|13|48,600|5d4 S|-|—|-|-|0.1|analog, conceal, operative|Basic Melee Weapons|2
+Sword Cane, Molecular Rift|—|13|50,900|3d8 P|-|bleed 1d8|-|-|0.1|analog, operative|Basic Melee Weapons|2
+Syringe Stick, Ultra-pointed|—|13|46,000|5d4 P|-|Injection DC +2|-|-|0.1|conceal, injection, operative|Basic Melee Weapons|2
+Dagger, Zero-Edge|—|14|64,400|6d4 S|-|—|-|-|0.1|analog, operative|Basic Melee Weapons|2
+Handaxe, Ultrathin|—|14|66,800|6d6 S|30 ft.|—|-|-|0.1|analog, thrown|Basic Melee Weapons|2
+Polyclub, Elite|—|14|65,000|4d6 B|-|—|-|-|0.1|analog, operative, polymorphic|Basic Melee Weapons|2
+Spined Blade, Gravity|—|14|62,400|4d10 P|-|injection DC +2|40 charges|2|0.1||Basic Melee Weapons|2
+Dueling Sword, Ripper|—|15|109,250|7d6 S|-|—|20 charges|1|0.1||Basic Melee Weapons|2
+Retractable Spike, Elite|—|15|11,900|7d4 P|-|—|-|-|0.1|conceal, integrated (1 slot), operative|Basic Melee Weapons|2
+Peacemaker|—|16|185,300|6d6 B|-|knockdown|20 charges|2|0.1|operative, stun|Basic Melee Weapons|2
+Shell Knuckles, Elite|—|16|151,000|10d8 B|-|—|3 shells|3|0.1|analog|Basic Melee Weapons|2
+Sword Cane, Dimensional Slice|—|16|160,000|5d8 P|-|bleed 2d6|-|-|0.1|analog, operative|Basic Melee Weapons|2
+Battleglove, Gravity|—|17|214,850|5d10 B|-|—|20 charges|1|0.1||Basic Melee Weapons|2
+Bone Cestus, Severe|—|17|230,000|8d6 P|-|bleed 5d6|-|-|0.1|analog|Basic Melee Weapons|2
+Dagger, Molecular Rift|—|17|275,000|10d4 S|-|—|-|-|0.1|analog, operative|Basic Melee Weapons|2
+Dueling Sword (Corpse Fleet), Admiral|—|17|255,150|8d6 S|-|—|-|-|0.1|analog|Basic Melee Weapons|2
+Syringe Stick, Supreme-pointed|—|17|225,000|10d4 P|-|Injection DC +2|-|-|0.1|conceal, injection, operative|Basic Melee Weapons|2
+Dueling Sword, Molecular Rift|—|18|331,200|10d6 S|-|—|-|-|0.1|analog|Basic Melee Weapons|2
+Polyclub, Paragon|—|18|345,000|8d6 B|-|—|-|-|0.1|analog, operative, polymorphic|Basic Melee Weapons|2
+Spined Blade, Rivener|—|18|325,000|8d10 P|-|injection DC +2|40 charges|2|0.1||Basic Melee Weapons|2
+Switchblade, Molecular Rift|—|18|354|11d4 S|-|—|-|-|0.1|analog, conceal, operative|Basic Melee Weapons|2
+Baton, Advanced|—|19|540,000|8d6 B|-|—|20 charges|1|0.1|operative|Basic Melee Weapons|2
+Handaxe, Molecular Rift|—|19|502,000|12d6 S|40 ft.|—|-|-|0.1|analog, thrown|Basic Melee Weapons|2
+Retractable Spike, Paragon|—|20|895,000|6d10 P|-|—|-|-|0.1|conceal, integrated (1 slot), operative|Basic Melee Weapons|2
+Shell Knuckles, Paragon|—|20|525,000|14d8 B|-|—|4 shells|4|0.1|analog|Basic Melee Weapons|2
+Red Star Plasma Kukri|Plasma|4|2,450|1d4 E & F|-|wound|20 charges|1|0.1|operative|Basic Melee Weapons|2

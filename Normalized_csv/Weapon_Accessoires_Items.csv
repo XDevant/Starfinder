@@ -1,0 +1,28 @@
+Name|Level|Price|Bulk|Capacity|Usage|Weapon Type
+Grenadier Bracket|1|400|0|—|—|railed weapon
+Rangefinder|1|325|0.1|20|1/hour|railed weapon, small arm
+Uniclamp|1|150|0.1|—|—|railed weapon
+Bayonet Bracket, Heavy|1|300|0.1|—|—|railed weapon
+Bayonet Bracket, Light|1|150|0.1|—|—|railed weapon, small arm
+Bipod, Light|1|350|0.1|—|—|railed weapon
+Bipod, Heavy|2|700|0|—|—|railed weapon
+Grip, Folding|2|600|0.1|—|—|small arm
+Grip, Nanofiber|2|750|0.1|—|—|any
+Sight, Manual|2|1,000|0.1|—|—|railed weapon, small arm
+Stock, Collapsing|2|850|0.1|—|—|railed weapon
+Collapsing Weapon|3|1,250|0.1|—|—|melee weapon
+Flash Suppressor|3|1,200|0.1|—|—|projectile
+Gunner Harness, Light|3|1,400|1|—|—|heavy weapon
+Scope, Sniper|3|1,350|0|—|—|railed weapon, small arm
+Silencer|4|1,850|0.1|—|—|railed weapon
+Scope, Nightvision|4|2,350|0|20|1/hour|railed weapon, small arm
+Sight, Laser|5|3,000|0.1|20|1/hour|railed weapon, small arm
+Inertial Dampener|6|4,000|0.1|20|1/minute|any
+Grip, Null-Space|6|4,250|0.1|—|—|melee weapon, small arm
+Scope, Laser|6|4,300|0|20|1/hour|railed weapon, small arm
+Grip, Blur|7|5,400|0.1|—|—|melee weapon, small arm
+Gunner Harness, Heavy|7|5,600|2|—|—|heavy weapon
+Stock, Null-Space|7|5,950|0.1|—|—|railed weapon
+Gunner Harness, Null-Space|9|15,000|2|—|—|heavy weapon
+Scope, Revealing|9|12,500|0|20|1/hour|railed weapon, small arm
+Scope, Clarity|12|37,500|0|20|1/hour|railed weapon, small arm

@@ -1,0 +1,180 @@
+Name|Category|Level|Price|Damage|Range|Critical|Capacity|Usage|Bulk|Special|Proficiency|Hands
+Hammer, Assault|—|1|95|1d6 B|-|—|-|-|1|analog|Advanced Melee Weapons|1
+Longsword, Standard|—|1|375|1d8 S|-|—|-|-|1|analog|Advanced Melee Weapons|1
+Starknife, Tactical|—|1|110|1d4 P|20 ft.|—|-|-|0.1|analog, thrown|Advanced Melee Weapons|1
+Taclash, Standard|—|1|240|1d4 S|-|—|-|-|0.1|analog, disarm, nonlethal, reach, trip|Advanced Melee Weapons|1
+Injection Glove|—|2|490|1d4 P|-|injection DC +2|-|-|0.1|analog, injection|Advanced Melee Weapons|1
+Needler Estoc, Standard|—|2|175|1d6 P|-|Injection DC +2|-|-|0.1|injection|Advanced Melee Weapons|1
+Velstrac Flenser, Ascetic|—|2|550|1d4 S & So|-|Bleed 1d4|20 charges|1|0.1||Advanced Melee Weapons|1
+Hook Sword|—|3|1,420|1d8 S|-|bleed 1d4|-|-|0.1|analog, trip|Advanced Melee Weapons|1
+Painclaw, Ghoulish|—|3|1,250|1d8 S & P|-|—|-|-|1|injection (see text), unwieldy|Advanced Melee Weapons|1
+Talon, Drone|—|4|2,400|"1d6 A|s"|-|corrode 1d6|20 charges|1|0.1|modal|Advanced Melee Weapons|1
+Warfan|—|5|3,070|1d8 S|-|—|-|-|0.1|analog, block|Advanced Melee Weapons|1
+Battleaxe, Tactical|—|5|2,650|1d8 S|-|wound|-|-|1|analog|Advanced Melee Weapons|1
+Hardlight Hand Wrap, Diffuse|—|5|3,180|1d6 B|-|—|20 charges|2|0.1|bright, force|Advanced Melee Weapons|1
+Thresherblade, Tactical|—|5|3,200|1d10 S|-|bleed 1d6|-|-|1|analog|Advanced Melee Weapons|1
+Living Lash|—|6|4,150|1d8 S|-|bind|20 charges|1|0.1|living, reach, thought, unwieldy|Advanced Melee Weapons|1
+Mindspike, Tactical|—|6|4,400|1d8 P|-|staggered|-|-|0.1|analog|Advanced Melee Weapons|1
+Needler Estoc, Sharp-pointed|—|6|4,000|1d8 P|-|Injection DC +2|-|-|0.1|injection|Advanced Melee Weapons|1
+Fangblade|—|7|5,430|1d12 S|-|bleed 1d8|20 charges|1|1||Advanced Melee Weapons|1
+Longsword, Sintered|—|7|8,420|2d8 S|-|—|-|-|1|analog|Advanced Melee Weapons|1
+Polylash, Tactical|—|7|7,000|3d4 B|-|—|-|-|0.1|analog, disarm, polymorphic, reach, trip|Advanced Melee Weapons|1
+Velstrac Flenser, Singer|—|7|6,600|2d6 S & So|-|Bleed 1d8|20 charges|1|0.1||Advanced Melee Weapons|1
+Starknife, Sintered|—|8|9,810|4d4 P|50 ft.|—|-|-|0.1|analog, thrown|Advanced Melee Weapons|1
+Talon, Warrior|—|8|10,500|"2d6 A|s"|-|corrode 1d6|20 charges|1|0.1|modal|Advanced Melee Weapons|1
+Hardlight Hand Wrap, Ambient|—|9|13,100|2d8 B|-|—|20 charges|2|0.1|bright, force|Advanced Melee Weapons|1
+Longsword, Microserrated|—|9|12,100|2d10 S|-|bleed 2d6|-|-|1|analog|Advanced Melee Weapons|1
+Thresherblade, Microserrated|—|9|13,800|2d10 S|-|bleed 1d8|-|-|1|analog|Advanced Melee Weapons|1
+Hammer, Comet|—|10|16,900|4d6 B|-|—|20 charges|2|1||Advanced Melee Weapons|1
+Mindspike, Microserrated|—|10|18,450|3d8 P|-|staggered|-|-|0.1|analog|Advanced Melee Weapons|1
+Needler Estoc, Hyper-pointed|—|10|17,500|4d6 P|-|Injection DC +2|-|-|0.1|injection|Advanced Melee Weapons|1
+Longsword, Ultrathin|—|11|26,300|4d8 S|-|—|-|-|1|analog|Advanced Melee Weapons|1
+Painclaw, Demonic|—|11|25,000|2d8 S & P|-|bleed 1d6|-|-|1|injection (see text), unwieldy|Advanced Melee Weapons|1
+Polylash, Advanced|—|11|25,500|3d8 B|-|—|-|-|0.1|analog, disarm, polymorphic, reach, trip|Advanced Melee Weapons|1
+Taclash, Numbing|—|11|24,800|5d4 S|-|—|20 charges|2|0.1|disarm, reach, stun, trip|Advanced Melee Weapons|1
+Starknife, Accelerated|—|12|40,400|4d8 F & P|30 ft.|—|20 charges|1|0.1| thrown|Advanced Melee Weapons|1
+Talon, Knight|—|12|39,100|"4d6 A|s"|-|corrode 2d6|20 charges|1|0.1|modal|Advanced Melee Weapons|1
+Velstrac Flenser, Debater|—|12|37,600|3d8 S & So|-|Bleed 2d8|20 charges|1|0.1||Advanced Melee Weapons|1
+Grindblade|—|13|45,700|4d10 S|-|bleed 2d8|-|-|1|analog|Advanced Melee Weapons|1
+Thresherblade, Nanoserrated|—|13|50,300|4d10 S|-|bleed 2d8|-|-|1|analog|Advanced Melee Weapons|1
+Hardlight Hand Wrap, Natural|—|14|75,000|4d10 B|-|—|40 charges|4|0.1|bright, force|Advanced Melee Weapons|1
+Longsword, Zero-Edge|—|14|79,500|7d8 S|-|severe wound|-|-|0.1|analog|Advanced Melee Weapons|1
+Mindspike, Nanoserrated|—|14|77,800|7d8 P|-|staggered|-|-|0.1|analog|Advanced Melee Weapons|1
+Needler Estoc, Ultra-pointed|—|14|67,000|9d6 P|-|Injection DC +2|-|-|0.1|injection|Advanced Melee Weapons|1
+Monowhip|—|15|107,000|10d4 S|-|severe wound|-|-|0.1|analog, disarm, reach, trip|Advanced Melee Weapons|1
+Polylash, Elite|—|15|110,000|6d8 B|-|—|-|-|0.1|analog, disarm, polymorphic, reach, trip|Advanced Melee Weapons|1
+Hammer, Meteoric|—|16|164,500|11d6 B|-|—|-|-|1|analog|Advanced Melee Weapons|1
+Starknife, Lightspeed|—|16|183,400|8d8 F & P|50 ft.|—|20 charges|2|0.1| thrown|Advanced Melee Weapons|1
+Talon, Queen|—|16|195,000|"8d6 A|s"|-|corrode 3d6|40 charges|2|0.1|modal|Advanced Melee Weapons|1
+Hardlight Hand Wrap, Fluorescent|—|17|250,000|6d10 B|-|—|40 charges|4|0.1|bright, force|Advanced Melee Weapons|1
+Longsword, Molecular Rift|—|17|245,200|10d8 S|-|—|-|-|1|analog|Advanced Melee Weapons|1
+Thresherblade, Ultraserrated|—|17|268,650|8d10 S|-|bleed 4d8|-|-|1|analog|Advanced Melee Weapons|1
+Velstrac Flenser, Recluse|—|17|261,360|10d8 S & So|-|Bleed 4d8|20 charges|1|0.1||Advanced Melee Weapons|1
+Longsword, Ultraserrated|—|18|368,100|8d10 S|-|bleed 6d6|-|-|1|analog|Advanced Melee Weapons|1
+Mindspike, Ultraserrated|—|18|382,100|11d8 P|-|staggered|-|-|0.1|analog|Advanced Melee Weapons|1
+Needler Estoc, Supreme-pointed|—|18|342,000|14d6 P|-|Injection DC +2|-|-|0.1|injection|Advanced Melee Weapons|1
+Hammer, Gravity Well|—|19|551,000|15d6 B|-|—|40 charges|2|1||Advanced Melee Weapons|1
+Painclaw, Draconic|—|19|560,000|6d8 S & P|-|bleed 2d6|-|-|1|injection (see text), unwieldy|Advanced Melee Weapons|1
+Polylash, Paragon|—|19|575,000|11d8 B|-|—|-|-|0.1|analog, disarm, polymorphic, reach, trip|Advanced Melee Weapons|1
+Starknife, Dimensional Slice|—|19|602,200|8d12 P|80 ft.|—|-|-|0.1|analog, thrown|Advanced Melee Weapons|1
+Hardlight Hand Wrap, Incandescent|—|20|880,000|11d8 B|-|—|40 charges|2|0.1|bright, force|Advanced Melee Weapons|1
+Longsword, Dimensional Slice|—|20|727,300|14d8 S|-|—|-|-|1|analog|Advanced Melee Weapons|1
+Needler Estoc, Master-pointed|—|20|750,000|18d6 P|-|Injection DC +2|-|-|0.1|injection|Advanced Melee Weapons|1
+Talon, God|—|20|925,000|"8d12 A|s"|-|corrode 4d6|40 charges|2|0.1|modal|Advanced Melee Weapons|1
+Ice Needle, Undercover|Cryo|1|330|1d4 C & p|-|injection DC +2|20 charges|4|0.1|conceal, injection|Advanced Melee Weapons|1
+Cryospike, Personal|Cryo|2|1,100|1d4 C|-|—|20 charges|2|0.1|extinguish, integrated (2 slots)|Advanced Melee Weapons|1
+Tomb Claw, Skeletal|Cryo|2|777|1d4 P & C|-|—|20 charges|1|1|necrotic|Advanced Melee Weapons|1
+Bone Scepter, Chill|Cryo|3|1,490|1d6 C|-|leech|-|-|0.1|analog, antibiological|Advanced Melee Weapons|1
+Zero Knife, Frostbite-Class|Cryo|4|2,810|1d4 C|-|staggered|40 charges|1|0.1|conceal, operative|Advanced Melee Weapons|1
+Ice Needle, Furitive|Cryo|5|3,140|1d6 C & p|-|injection DC +2|40 charges|4|0.1|conceal, injection|Advanced Melee Weapons|1
+Gale Baton, Tempest|Cryo|6|4,240|1d6 C|-|staggered|80 charges|4|0.1|deflect, operative|Advanced Melee Weapons|1
+Tomb Claw, Ghoulish|Cryo|7|6,510|2d4 P & C|-|—|20 charges|1|1|necrotic|Advanced Melee Weapons|1
+Zero Knife, Hailstorm-Class|Cryo|7|5,540|1d6 C|-|staggered|40 charges|1|0.1|conceal, operative|Advanced Melee Weapons|1
+Bone Scepter, Void|Cryo|8|9,850|2d6 C|-|leech|-|-|0.1|analog, antibiological|Advanced Melee Weapons|1
+Cryospike, Residential|Cryo|9|13,700|3d4 C|-|—|20 charges|2|0.1|extinguish, integrated (2 slots)|Advanced Melee Weapons|1
+Ice Needle, Artifice|Cryo|10|18,400|4d6 C & p|-|injection DC +2|40 charges|4|0.1|conceal, injection|Advanced Melee Weapons|1
+Gale Baton, Cyclone|Cryo|11|24,500|3d8 C|-|staggered|80 charges|4|0.1|deflect, operative|Advanced Melee Weapons|1
+Tomb Claw, Vampiric|Cryo|12|36,330|5d4 P & C|-|—|20 charges|1|1|necrotic|Advanced Melee Weapons|1
+Zero Knife, Blizzard-Class|Cryo|12|32,400|2d6 C|-|staggered|40 charges|1|0.1|conceal, operative|Advanced Melee Weapons|1
+Bone Scepter, Rigor|Cryo|13|51,800|5d6 C|-|leech|-|-|0.1|analog, antibiological|Advanced Melee Weapons|1
+Ice Needle, Espionage|Cryo|14|74,100|7d6 C & p|-|injection DC +2|40 charges|4|0.1|conceal, injection|Advanced Melee Weapons|1
+Cryospike, Industrial|Cryo|15|114,000|9d4 C|-|—|20 charges|2|0.1|extinguish, integrated (2 slots)|Advanced Melee Weapons|1
+Tomb Claw, Lich|Cryo|16|170,100|12d4 P & C|-|—|20 charges|1|1|necrotic|Advanced Melee Weapons|1
+Zero Knife, Avalanche-Class|Cryo|16|145,000|5d6 C|-|staggered|40 charges|1|0.1|conceal, operative|Advanced Melee Weapons|1
+Gale Baton, Hurrican|Cryo|17|245,000|9d6 C|-|staggered|80 charges|4|0.1|deflect, operative|Advanced Melee Weapons|1
+Ice Needle, Subterfuge|Cryo|18|384,000|13d6 C & p|-|injection DC +2|80 charges|4|0.1|conceal, injection|Advanced Melee Weapons|1
+Bone Scepter, Cadaver|Cryo|19|598,000|12d6 C|-|leech|-|-|0.1|analog, antibiological|Advanced Melee Weapons|1
+Zero Knife, Icequake-Class|Cryo|20|729,000|7d6 C|-|staggered|40 charges|1|0.1|conceal, operative|Advanced Melee Weapons|1
+Disintegration Lash, Liquidator|Disintegrator|3|1,450|1d6 A|-|corrode 1d6|20 charges|1|0.1|living, reach|Advanced Melee Weapons|1
+Disintegration Lash, Decimator|Disintegrator|8|9,800|1d10 A|-|corrode 1d6|20 charges|1|0.1|living, reach|Advanced Melee Weapons|1
+Disintegration Lash, Executioner|Disintegrator|16|113,000|2d20 A|-|corrode 2d6|20 charges|1|0.1|living, reach|Advanced Melee Weapons|1
+Disintegration Lash, Eradicator|Disintegrator|20|850,000|4d20 A|-|corrode 4d6|20 charges|1|0.1|living, reach|Advanced Melee Weapons|1
+Junk Censer|Flame|1|125|1d6 B & f|10 ft.|burn 1d4|20|4|0.1|analog, thrown|Advanced Melee Weapons|1
+Heat-Amp Gauntlet, Mk 1|Flame|2|500|1d6 B & F|-|Burn 1d4|20 charges|1|1||Advanced Melee Weapons|1
+Resistance Rod, Strain-Gauge|Flame|2|510|1d4 F|-|burn 1d4|20 charges|1|0.1||Advanced Melee Weapons|1
+Pyrod, Luminous|Flame|3|1,300|1d6 F|-|jet 1d4|20|1|0.1|analog, professional (dancer)|Advanced Melee Weapons|1
+Magma Blade, Rhyolite|Flame|4|2,300|1d8 F & s|-|wound|20 charges|1|1||Advanced Melee Weapons|1
+Searing Grip, Low-Heat|Flame|5|3,010|1d6 F|-|burn 1d6|20 charges|2|0.1|grapple|Advanced Melee Weapons|1
+Mirage Dagger, Distortion|Flame|6|4,450|1d4 F|-|—|20 charges|1|0.1|feint, operative|Advanced Melee Weapons|1
+Heat-Amp Gauntlet, Mk 2|Flame|7|7,500|2d6 B & F|-|Burn 1d6|20 charges|1|1||Advanced Melee Weapons|1
+Skyfire Sword, Tactical|Flame|7|6,120|2d4 F|-|burn 1d8|20 charges|2|1||Advanced Melee Weapons|1
+Magma Blade, Andesite|Flame|8|10,900|2d8 F & s|-|wound|40 charges|2|1||Advanced Melee Weapons|1
+Resistance Rod, Thermistor|Flame|9|12,600|4d4 F|-|burn 2d4|20 charges|1|0.1||Advanced Melee Weapons|1
+Pyrod, Torch|Flame|10|13,500|3d6 F|-|jet 2d6|20|1|0.1|analog, professional (dancer)|Advanced Melee Weapons|1
+Searing Grip, High-Heat|Flame|11|25,200|3d8 F|-|burn 2d6|20 charges|2|0.1|grapple|Advanced Melee Weapons|1
+Heat-Amp Gauntlet, Mk 3|Flame|12|33,200|5d6 B & F|-|Burn 2d6|20 charges|1|1||Advanced Melee Weapons|1
+Resistance Rod, Piezoresistor|Flame|12|31,500|6d4 F|-|burn 3d4|20 charges|1|0.1||Advanced Melee Weapons|1
+Mirage Dagger, Hallucination|Flame|13|50,800|4d4 F|-|—|20 charges|1|0.1|feint, operative|Advanced Melee Weapons|1
+Magma Blade, Basalt|Flame|14|79,400|7d8 F & s|-|wound|40 charges|2|1||Advanced Melee Weapons|1
+Resistance Rod, Induction|Flame|15|94,200|10d4 F|-|burn 4d4|20 charges|1|0.1||Advanced Melee Weapons|1
+Heat-Amp Gauntlet, Mk 4|Flame|16|178,250|10d6 B & F|-|Burn 2d8|20 charges|1|1||Advanced Melee Weapons|1
+Pyrod, Beacon|Flame|16|164,000|8d6 F|-|jet 4d6|20|1|0.1|analog, professional (dancer)|Advanced Melee Weapons|1
+Skyfire Sword, Inferno|Flame|17|246,000|7d8 F|-|burn 4d12|20 charges|1|1||Advanced Melee Weapons|1
+Searing Grip, Weaponized|Flame|18|364,000|11d6 F|-|burn 3d6|20 charges|2|0.1|grapple|Advanced Melee Weapons|1
+Magma Blade, Plagioclase|Flame|19|610,000|13d8 F & s|-|wound|80 charges|2|1||Advanced Melee Weapons|1
+Mirage Dagger, Illusion|Flame|20|897,000|10d4 F|-|—|20 charges|1|0.1|feint, operative|Advanced Melee Weapons|1
+Welder, Utility|Plasma|1|300|1d4 E & f|-|—|20 charges|1|0.1| professional (contractor)|Advanced Melee Weapons|1
+Solar Brand, Red Star|Plasma|2|790|1d6 E & F|-|—|20 charges|2|0.1||Advanced Melee Weapons|1
+Plasma Lash, Red Star|Plasma|3|1,550|1d4 E & F|-|knockdown|20 charges|1|0.1| reach, trip|Advanced Melee Weapons|1
+Angel Wing, Movanic|Plasma|4|1,890|1d6 E & F|-|burn 1d6|20 charges|2|0.1| unwieldy|Advanced Melee Weapons|1
+Welder, Industrial|Plasma|5|3,100|2d4 E & F|-|—|20 charges|1|0.1| professional (contractor)|Advanced Melee Weapons|1
+Solar Brand, Yellow Star|Plasma|6|4,250|1d8 E & F|-|wound|40 charges|4|0.1||Advanced Melee Weapons|1
+Angel Wing, Monadic|Plasma|7|5,500|2d6 E & F|-|burn 2d6|20 charges|2|0.1| unwieldy|Advanced Melee Weapons|1
+Plasma Lash, Yellow Star|Plasma|8|11,000|3d4 E & F|-|knockdown|- charges|-|0.1|powered (capacity|Advanced Melee Weapons|1
+Plasma Sword, Tactical|Plasma|9|14,550|2d8 E & F|-|severe wound|20 charges|2|1||Advanced Melee Weapons|1
+Angel Wing, Astral|Plasma|10|17,100|4d6 E & F|-|burn 2d6|20 charges|2|0.1| unwieldy|Advanced Melee Weapons|1
+Welder, Starship|Plasma|11|25,800|5d4 E & F|-|—|40 charges|2|0.1| professional (contractor)|Advanced Melee Weapons|1
+Solar Brand, White Star|Plasma|12|35,200|3d8 E & F|-|wound|80 charges|4|0.1||Advanced Melee Weapons|1
+Plasma Sword, Red Star|Plasma|13|54,300|4d8 E & F|-|severe wound|40 charges|4|1||Advanced Melee Weapons|1
+Plasma Lash, White Star|Plasma|14|80,500|6d4 E & F|-|knockdown|- charges|-|0.1|powered (capacity|Advanced Melee Weapons|1
+Plasma Sword, Yellow Star|Plasma|15|127,000|5d8 E & F|-|severe wound|40 charges|4|1||Advanced Melee Weapons|1
+Welder, Offensive|Plasma|16|164,000|11d4 E & F|-|—|40 charges|4|0.1| professional (contractor)|Advanced Melee Weapons|1
+Solar Brand, Blue Star|Plasma|17|245,000|7d8 E & F|-|severe wound|80 charges|4|0.1||Advanced Melee Weapons|1
+Plasma Sword, White Star|Plasma|18|415,600|8d8 E & F|-|severe wound|40 charges|4|1||Advanced Melee Weapons|1
+Plasma Lash, Blue Star|Plasma|19|912,000|15d4 E & F|-|knockdown|- charges|-|0.1|powered (capacity|Advanced Melee Weapons|1
+Plasma Sword, Blue Star|Plasma|20|920,250|10d8 E & F|-|severe wound|40 charges|4|1||Advanced Melee Weapons|1
+Spark Knife, Runner|Shock|1|390|1d4 E & S|-|arc 1d4|20 charges|1|0.1|drain charge, operative|Advanced Melee Weapons|1
+Electrovore Glove, Static|Shock|2|750|1d6 P & E|-|recharge 2|20 charges|1|0.1||Advanced Melee Weapons|1
+Shock Pad, Static|Shock|2|1,100|1d4 E|-|staggered|20 charges|1|0.1|integrated (1 slot), stun|Advanced Melee Weapons|1
+Glass Blade, Live|Shock|3|1,230|1d6 E & P|-|—|20 charges|1|0.1||Advanced Melee Weapons|1
+Neural Lash, Electroplax|Shock|4|2,230|1d4 E|-|arc 1d4|20 charges|1|0.1|living, reach, stun, thought, unwieldy|Advanced Melee Weapons|1
+Spark Knife, Recruit|Shock|5|3,070|1d6 E & S|-|arc 1d6|20 charges|1|0.1|drain charge, operative|Advanced Melee Weapons|1
+Shock Pad, Aurora|Shock|6|4,900|2d4 E|-|staggered|20 charges|1|0.1|integrated (1 slot), stun|Advanced Melee Weapons|1
+Electrovore Glove, Aurora|Shock|7|6,250|2d6 P & E|-|recharge 2|20 charges|1|0.1||Advanced Melee Weapons|1
+Glass Blade, Jolt|Shock|7|5,440|2d6 E & P|-|—|20 charges|2|0.1||Advanced Melee Weapons|1
+Shock Truncheon, Static|Shock|8|9,150|1d12 E|-|arc 1d4|20 charges|2|1| stun|Advanced Melee Weapons|1
+Neural Lash, Amperometric|Shock|9|14,600|3d4 E|-|arc 2d4|20 charges|1|0.1|living, reach, stun, thought, unwieldy|Advanced Melee Weapons|1
+Spark Knife, Crew|Shock|10|18,200|2d6 E & S|-|arc 2d6|20 charges|1|0.1|drain charge, operative|Advanced Melee Weapons|1
+Shock Truncheon, Aurora|Shock|11|23,000|2d12 E|-|arc 2d4|20 charges|2|1| stun|Advanced Melee Weapons|1
+Shock Pad, Storm|Shock|12|37,500|6d4 E|-|staggered|20 charges|1|0.1|integrated (1 slot), stun|Advanced Melee Weapons|1
+Electrovore Glove, Storm|Shock|13|49,000|6d6 P & E|-|recharge 4|40 charges|2|0.1||Advanced Melee Weapons|1
+Glass Blade, Impulse|Shock|13|46,500|6d6 E & P|-|—|20 charges|2|0.1||Advanced Melee Weapons|1
+Neural Lash, Galvanic|Shock|14|79,400|8d4 E|-|arc 4d4|20 charges|1|0.1|living, reach, stun, thought, unwieldy|Advanced Melee Weapons|1
+Spark Knife, Boss|Shock|15|112,000|5d6 E & S|-|arc 3d6|20 charges|1|0.1|drain charge, operative|Advanced Melee Weapons|1
+Shock Truncheon, Storm|Shock|16|80,200|3d12 E|-|arc 3d4|40 charges|2|1| stun|Advanced Melee Weapons|1
+Shock Pad, Tempest|Shock|17|268,000|13d4 E|-|staggered|20 charges|1|0.1|integrated (1 slot), stun|Advanced Melee Weapons|1
+Electrovore Glove, Tempest|Shock|18|375,000|12d6 P & E|-|recharge 4|40 charges|2|0.1||Advanced Melee Weapons|1
+Glass Blade, Surge|Shock|18|327,000|13d6 E & P|-|—|20 charges|2|0.1||Advanced Melee Weapons|1
+Shock Truncheon, Tempest|Shock|19|545,000|6d12 E|-|arc 6d4|40 charges|2|1| stun|Advanced Melee Weapons|1
+Neural Lash, Voltaic|Shock|20|909,000|8d10 E|-|arc 3d10|20 charges|1|0.1|living, reach, stun, thought, unwieldy|Advanced Melee Weapons|1
+Singing Disk, Sopranino|Sonic|1|115|1d4 So|20 ft.|confuse|-|-|0.1|analog, thrown|Advanced Melee Weapons|1
+Pulse Gauntlet, Thunderstrike|Sonic|2|475|1d6 B & So|-|knockdown|20 charges|1|1||Advanced Melee Weapons|1
+Wailing Blade, Tymbal|Sonic|3|1,270|1d6 S & So|-|deafen|20 charges|2|0.1||Advanced Melee Weapons|1
+Shrieking Knife, Harmonic|Sonic|4|2,180|1d4 So|-|—|20 charges|2|0.1|operative|Advanced Melee Weapons|1
+Resonant Gauntlet, Cellular|Sonic|5|3,230|1d4 So|-|nauseate|20 charges|1|0.1|boost 1d4|Advanced Melee Weapons|1
+Singing Disk, Soprano|Sonic|6|3,900|1d6 So|30 ft.|confuse|-|-|0.1|analog, thrown|Advanced Melee Weapons|1
+Pulse Gauntlet, LFD|Sonic|7|7,340|2d6 B & So|-|knockdown|20 charges|1|1||Advanced Melee Weapons|1
+Wailing Blade, Euphonic|Sonic|8|9,080|2d8 S & So|-|deafen|40 charges|2|0.1||Advanced Melee Weapons|1
+Shrieking Knife, Interference|Sonic|9|13,700|2d4 So|-|—|20 charges|2|0.1|operative|Advanced Melee Weapons|1
+Resonant Gauntlet, Molecular|Sonic|10|19,900|3d4 So|-|nauseate|20 charges|1|0.1|boost 3d4|Advanced Melee Weapons|1
+Singing Disk, Alto|Sonic|11|23,600|3d6 So|40 ft.|confuse|-|-|0.1|analog, thrown|Advanced Melee Weapons|1
+Pulse Gauntlet, HFD|Sonic|12|31,300|5d6 B & So|-|knockdown|20 charges|1|1||Advanced Melee Weapons|1
+Wailing Blade, Strident|Sonic|13|47,100|6d6 S & So|-|deafen|40 charges|4|0.1||Advanced Melee Weapons|1
+Shrieking Knife, Infrasonic|Sonic|14|77,400|4d4 So|-|—|20 charges|4|0.1|operative|Advanced Melee Weapons|1
+Resonant Gauntlet, Atomic|Sonic|15|124,000|8d4 So|-|nauseate|20 charges|1|0.1|boost 4d4|Advanced Melee Weapons|1
+Pulse Gauntlet, Banshee|Sonic|16|148,200|10d6 B & So|-|knockdown|20 charges|1|1||Advanced Melee Weapons|1
+Singing Disk, Tenor|Sonic|16|146,000|7d6 So|60 ft.|confuse|-|-|0.1|analog, thrown|Advanced Melee Weapons|1
+Shrieking Knife, Ultrasonic|Sonic|17|259,000|7d4 So|-|—|20 charges|4|0.1|operative|Advanced Melee Weapons|1
+Wailing Blade, Warbler|Sonic|18|363,000|15d6 S & So|-|deafen|80 charges|4|0.1||Advanced Melee Weapons|1
+Singing Disk, Bass|Sonic|19|482,000|10d6 So|80 ft.|confuse|-|-|0.1|analog, thrown|Advanced Melee Weapons|1
+Resonant Gauntlet, Quantum|Sonic|20|901,000|6d12 So|-|nauseate|20 charges|1|0.1|boost 3d12|Advanced Melee Weapons|1

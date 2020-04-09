@@ -1,0 +1,162 @@
+Name|Category|Level|Price|Damage|Range|Critical|Capacity|Usage|Bulk|Special|Proficiency|Hands
+Doshko, Tactical|—|1|240|1d12 P|-|—|-|-|1|analog, unwieldy|Advanced Melee Weapons|2
+Capture Pole, Enforcement-class|—|2|325|1d8 P|-|Injection DC +2|-|-|0.1|grapple, injection, reach|Advanced Melee Weapons|2
+Pike, Tactical|—|2|475|1d8 P|-|—|-|-|2|analog, reach|Advanced Melee Weapons|2
+Trident (Levaloch), Tactical|—|2|750|1d8 P|20 ft.|—|-|-|1|analog, thrown|Advanced Melee Weapons|2
+Battle Ribbon, Traditional|—|3|270|1d8 S|-|—|-|-|1|analog, operative, professional (dancer)|Advanced Melee Weapons|2
+Curve Blade, Carbon Steel|—|4|2,230|1d10 S|-|bleed 1d6|-|-|2|analog|Advanced Melee Weapons|2
+Kishaxe, Skirmish|—|4|2,000|1d10 S|-|—|-|-|2|analog, archaic|Advanced Melee Weapons|2
+Xenolash, Immature|—|4|2,430|2d4 A & S|-|corrode 1d4|-|-|1|analog, disarm, entangle, reach, trip|Advanced Melee Weapons|2
+Neutriad Flail|—|5|3,200|1d8 B|-|push|20 charges|1|1|disarm, force|Advanced Melee Weapons|2
+Swoop Hammer, Tactical|—|5|3,360|1d10 B|-|knockdown|-|-|2|analog, reach, unwieldy|Advanced Melee Weapons|2
+Shimmerstone Staff, Sunset|—|6|4,000|2d6 B|-|—|-|-|1|unwieldy|Advanced Melee Weapons|2
+Capture Pole, Apprehension-class|—|7|6,600|2d8 P|-|Injection DC +2|-|-|0.1|grapple, injection, reach|Advanced Melee Weapons|2
+Devastation Blade, Wrack|—|7|5,500|2d8 S|-|—|-|-|1|analog|Advanced Melee Weapons|2
+Doshko, Advanced|—|7|5,300|2d12 P|-|—|-|-|1|analog, unwieldy|Advanced Melee Weapons|2
+Phasic Scythe, Monophonic|—|7|6,250|2d4 So|-|Wound|40 charges|4|1|penetrating|Advanced Melee Weapons|2
+Staff, Sentinel|—|7|6,320|1d10 B|-|—|20 charges|1|1|block, stun|Advanced Melee Weapons|2
+Trident (Levaloch), Sintered|—|7|6,100|2d8 P|20 ft.|—|-|-|1|analog, thrown|Advanced Melee Weapons|2
+Battle Ribbon, Micro-Edge|—|8|9,400|3d8 S|-|wound|-|-|1|analog, operative, professional (dancer)|Advanced Melee Weapons|2
+Kishaxe, Assault|—|9|13,000|2d10 S|-|wound|-|-|2|analog, archaic|Advanced Melee Weapons|2
+Pike, Advanced|—|9|12,200|2d8 P|-|bleed 1d8|-|-|2|analog, reach|Advanced Melee Weapons|2
+Swoop Hammer, Advanced|—|9|14,300|3d10 B|-|knockdown|-|-|2|analog, reach, unwieldy|Advanced Melee Weapons|2
+Curve Blade, Ultrathin|—|10|18,100|3d10 S|-|bleed 2d6|-|-|1|analog|Advanced Melee Weapons|2
+Xenolash, Mature|—|10|17,000|5d4 A & S|-|corrode 2d4|-|-|1|analog, disarm, entangle, reach, trip|Advanced Melee Weapons|2
+Doshko, Ultrathin|—|11|24,600|4d12 P|-|—|-|-|1|analog, unwieldy|Advanced Melee Weapons|2
+Phasic Scythe, Harmonic|—|11|25,000|6d4 So|-|Wound|40 charges|5|1|penetrating|Advanced Melee Weapons|2
+Shimmerstone Staff, Evenfall|—|11|25,000|5d6 B|-|—|-|-|1|unwieldy|Advanced Melee Weapons|2
+Battle Ribbon, Zero-Edge|—|12|35,200|5d8 S|-|severe wound|-|-|1|analog, operative, professional (dancer)|Advanced Melee Weapons|2
+Capture Pole, Imprisonment-class|—|12|36,300|6d6 P|-|Injection DC +2|-|-|0.1|grapple, injection, reach|Advanced Melee Weapons|2
+Trident (Levaloch), Ultrathin|—|12|36,600|4d8 P|20 ft.|—|-|-|1|analog, thrown|Advanced Melee Weapons|2
+Devastation Blade, Ruin|—|13|43,900|5d8 S|-|—|-|-|1|analog|Advanced Melee Weapons|2
+Staff, Repeller|—|13|45,200|3d8 B|-|knockdown|20 charges|1|1|block, stun|Advanced Melee Weapons|2
+Swoop Hammer, Mach I|—|13|44,100|5d10 B|-|knockdown|40 charges|4|2| reach, unwieldy|Advanced Melee Weapons|2
+Doshko, Zero-Edge|—|14|71,500|7d12 P|-|—|-|-|1|analog, unwieldy|Advanced Melee Weapons|2
+Kishaxe, Havoc|—|14|70,000|4d10 S|-|severe wound|-|-|2|analog, archaic|Advanced Melee Weapons|2
+Xenolash, Blooming|—|14|70,000|9d4 A & S|-|corrode 4d4|-|-|1|analog, disarm, entangle, reach, trip|Advanced Melee Weapons|2
+Phasic Scythe, Polyphonic|—|15|112,500|6d8 So|-|Wound|80 charges|8|2|penetrating|Advanced Melee Weapons|2
+Pike, Elite|—|15|95,700|7d8 P|-|bleed 3d8|-|-|2|analog, reach|Advanced Melee Weapons|2
+Shimmerstone Staff, Twilight|—|15|105,000|6d12 B|-|—|-|-|1|unwieldy|Advanced Melee Weapons|2
+Curve Blade, Buzzblade|—|16|184,300|8d10 S|-|bleed 5d6|40 charges|2|2||Advanced Melee Weapons|2
+Capture Pole, Domination-class|—|17|256,500|7d12 P|-|Injection DC +2|-|-|0.1|grapple, injection, reach|Advanced Melee Weapons|2
+Doshko, Molecular Rift|—|17|248,000|10d12 P|-|—|20 charges|1|1| unwieldy|Advanced Melee Weapons|2
+Swoop Hammer, Mach II|—|17|273,000|10d10 B|-|knockdown|-|-|2|analog, reach, unwieldy|Advanced Melee Weapons|2
+Trident (Levaloch), Molecular Rift|—|17|219,600|10d8 P|20 ft.|—|-|-|1|analog, thrown|Advanced Melee Weapons|2
+Devastation Blade, Apocalypse|—|18|410,200|12d8 S|-|—|-|-|1|analog|Advanced Melee Weapons|2
+Xenolash, Seeded|—|18|409,000|9d8 A & S|-|corrode 6d4|-|-|1|analog, disarm, entangle, reach, trip|Advanced Melee Weapons|2
+Doshko, Dimensional Blade|—|19|546,100|13d12 P|-|—|-|-|1|analog, unwieldy|Advanced Melee Weapons|2
+Kishaxe, Onslaught|—|19|540,000|9d10 S|-|severe wound|-|-|2|analog, archaic|Advanced Melee Weapons|2
+Phasic Scythe, Multiphonic|—|19|562,500|10d8 So|-|Wound|00 charges|1|2|penetrating|Advanced Melee Weapons|2
+Capture Pole, Overlord-class|—|20|855,000|15d8 P|-|Injection DC +2|-|-|0.1|grapple, injection, reach|Advanced Melee Weapons|2
+Curve Blade, Dimensional Slice|—|20|815,000|12d10 S|-|bleed 6d6|40 charges|2|2||Advanced Melee Weapons|2
+Swoop Hammer, Mach III|—|20|905,700|14d10 B & F|-|knockdown|40 charges|4|2| reach, unwieldy|Advanced Melee Weapons|2
+Trident (Levaloch), Dimensional Slice|—|20|768,600|14d8 P|20 ft.|—|-|-|1|analog, thrown|Advanced Melee Weapons|2
+Shadow Chains, Follower|Cryo|1|390|1d3 C|-|bind|-|-|2|analog, disarm, reach, trip|Advanced Melee Weapons|2
+Void Staff, Grave-Class|Cryo|2|1,080|1d4 C|-|suffocate|-|-|1|analog, block|Advanced Melee Weapons|2
+Frost Maul, Aufeis|Cryo|3|1,240|1d8 C|-|staggered|20 charges|2|2| sunder|Advanced Melee Weapons|2
+Icestar Staff, Defender|Cryo|4|2,080|"1d6 C|f"|-|—|40 charges|2|1|block, double (flame)|Advanced Melee Weapons|2
+Spined Iceblade, Frostbite-Class|Cryo|4|2,150|1d6 C|-|staggered|20 charges|1|1||Advanced Melee Weapons|2
+Cryopike, Tactical|Cryo|5|3,360|1d8 C|-|—|40 charges|2|2| reach|Advanced Melee Weapons|2
+Void Staff, Crypt-Class|Cryo|6|4,600|1d10 C|-|suffocate|-|-|1|analog, block|Advanced Melee Weapons|2
+Icestar Staff, Seeker|Cryo|7|6,320|"2d6 C|f"|-|—|40 charges|2|1|block, double (flame)|Advanced Melee Weapons|2
+Shadow Chains, Acolyte|Cryo|7|6,800|3d4 C|-|bind|-|-|2|analog, disarm, reach, trip|Advanced Melee Weapons|2
+Frost Maul, Iceberg|Cryo|8|8,700|3d8 B & C|-|staggered|20 charges|2|2| sunder|Advanced Melee Weapons|2
+Spined Iceblade, Hailstorm-Class|Cryo|9|13,700|3d6 C|-|staggered|20 charges|1|1||Advanced Melee Weapons|2
+Shadow Chains, Penitent|Cryo|10|18,800|5d4 C|-|bind|-|-|2|analog, disarm, reach, trip|Advanced Melee Weapons|2
+Icestar Staff, Warrior|Cryo|11|25,200|"4d6 C|f"|-|—|40 charges|2|1|block, double (flame)|Advanced Melee Weapons|2
+Void Staff, Tomb-Class|Cryo|11|27,100|3d10 C|-|suffocate|-|-|1|analog, block|Advanced Melee Weapons|2
+Cryopike, Advanced|Cryo|12|34,800|2d8 C|-|staggered|40 charges|2|2| reach|Advanced Melee Weapons|2
+Frost Maul, Floe|Cryo|13|46,100|6d8 B & C|-|staggered|20 charges|2|2| sunder|Advanced Melee Weapons|2
+Icestar Staff, Drifter|Cryo|14|73,100|"6d6 C|f"|-|—|40 charges|2|1|block, double (flame)|Advanced Melee Weapons|2
+Shadow Chains, Ecclesiastic|Cryo|14|76,800|9d4 C|-|bind|-|-|2|analog, disarm, reach, trip|Advanced Melee Weapons|2
+Void Staff, Ossuary-Class|Cryo|15|123,000|5d10 C|-|suffocate|-|-|1|analog, block|Advanced Melee Weapons|2
+Spined Iceblade, Blizzard-Class|Cryo|16|170,000|7d6 C|-|staggered|20 charges|1|1||Advanced Melee Weapons|2
+Frost Maul, Glacier|Cryo|17|224,000|10d8 B & C|-|staggered|40 charges|2|2| sunder|Advanced Melee Weapons|2
+Icestar Staff, Leader|Cryo|17|251,000|"10d6 C|f"|-|—|40 charges|2|1|block, double (flame)|Advanced Melee Weapons|2
+Shadow Chains, Devotional|Cryo|18|261,000|9d8 C|-|bind|-|-|2|analog, disarm, reach, trip|Advanced Melee Weapons|2
+Spined Iceblade, Avalanche-Class|Cryo|19|570,000|10d6 C|-|staggered|20 charges|1|1||Advanced Melee Weapons|2
+Void Staff, Barrow-Class|Cryo|20|904,000|9d10 C|-|suffocate|-|-|1|analog, block|Advanced Melee Weapons|2
+Flame Spinner, Fireball|Flame|1|225|1d6 F|-|burn 1d4|20|1|1|analog, free hands (2), unwieldy|Advanced Melee Weapons|2
+Blaze Scimitar, Acolyte|Flame|2|740|1d6 F|-|burn 1d6|20 charges|1|1|bright|Advanced Melee Weapons|2
+Flame Doshko, Ember|Flame|2|750|1d8 F|-|wound|20 charges|1|1||Advanced Melee Weapons|2
+Burning Chains, Fiend-Class|Flame|3|1,450|1d8 F|-|fatigue|20|1|2|analog, disarm, reach, trip|Advanced Melee Weapons|2
+Flame Spinner, Immolation|Flame|5|2,860|1d8 F|-|burn 1d6|20|2|1|analog, free hands (2), unwieldy|Advanced Melee Weapons|2
+Meteor Glaive, Tactical|Flame|6|4,390|"1d12 F|s"|-|wound|40|4|2| reach|Advanced Melee Weapons|2
+Blaze Scimitar, Disciple|Flame|8|9,200|2d6 F|-|burn 1d8|20 charges|1|1|bright|Advanced Melee Weapons|2
+Flame Doshko, Blaze|Flame|8|8,500|2d8 F|-|wound|20 charges|1|1||Advanced Melee Weapons|2
+Burning Chains, Malebranche-Class|Flame|9|13,900|2d8 F|-|fatigue|20|1|2|analog, disarm, reach, trip|Advanced Melee Weapons|2
+Meteor Glaive, Advanced|Flame|10|18,200|"3d8 F|s"|-|wound|40|4|2| reach|Advanced Melee Weapons|2
+Blaze Scimitar, Cleric|Flame|12|34,600|4d6 F|-|burn 2d6|40 charges|2|1|bright|Advanced Melee Weapons|2
+Flame Spinner, Supernova|Flame|12|33,900|3d10 F|-|burn 2d6|20|1|1|analog, free hands (2), unwieldy|Advanced Melee Weapons|2
+Flame Doshko, Inferno|Flame|13|53,200|5d8 F|-|wound|20 charges|1|1||Advanced Melee Weapons|2
+Meteor Glaive, Elite|Flame|15|112,000|"5d10 F|s"|-|wound|40|4|2| reach|Advanced Melee Weapons|2
+Blaze Scimitar, Divine|Flame|16|162,000|8d6 F|-|burn 2d8|40 charges|2|1|bright|Advanced Melee Weapons|2
+Burning Chains, Archdevil-Class|Flame|16|178,000|5d12 F|-|fatigue|20|1|2|analog, disarm, reach, trip|Advanced Melee Weapons|2
+Meteor Glaive, Paragon|Flame|18|385,000|"10d10 F|s"|-|severe wound|40|4|2| reach|Advanced Melee Weapons|2
+Flame Doshko, Solar Flare|Flame|19|595,000|10d8 F|-|severe wound|20 charges|1|1||Advanced Melee Weapons|2
+Flame Spinner, Fission|Flame|20|802,000|8d12 F|-|burn 5d6|20|1|1|analog, free hands (2), unwieldy|Advanced Melee Weapons|2
+Flare Axe, Red Star|Plasma|1|120|1d4 E & F|-|burn 1d4|20 charges|1|1||Advanced Melee Weapons|2
+Nova Lance, Red Star|Plasma|2|995|1d4 E & F|-|wound|20 charges|1|2| reach|Advanced Melee Weapons|2
+Core Hammer, Tactical|Plasma|3|1,320|1d6 E & F|-|jet 1d6|40 charges|2|2||Advanced Melee Weapons|2
+Plasma Ribbon, Student|Plasma|4|2,120|1d6 E & F|-|—|20 charges|1|0.1|operative, professional (dancer)|Advanced Melee Weapons|2
+Flare Axe, Yellow Star|Plasma|5|2,710|1d8 E & F|-|burn 1d8|20 charges|1|1||Advanced Melee Weapons|2
+Plasma Doshko, Red Star|Plasma|6|4,650|1d10 E & F|-|severe wound|20 charges|2|1||Advanced Melee Weapons|2
+Nova Lance, Yellow Star|Plasma|7|6,870|3d4 E & F|-|wound|20 charges|1|2| reach|Advanced Melee Weapons|2
+Core Hammer, Advanced|Plasma|8|9,150|3d6 E & F|-|jet 2d6|40 charges|2|2||Advanced Melee Weapons|2
+Plasma Ribbon, Professional|Plasma|9|13,600|2d10 E & F|-|—|20 charges|1|0.1|operative, professional (dancer)|Advanced Melee Weapons|2
+Plasma Doshko, Yellow Star|Plasma|10|17,000|2d10 E & F|-|severe wound|20 charges|2|1||Advanced Melee Weapons|2
+Flare Axe, White Star|Plasma|11|23,100|3d10 E & F|-|burn 1d10|20 charges|1|1||Advanced Melee Weapons|2
+Nova Lance, White Star|Plasma|12|39,500|7d4 E & F|-|severe wound|40 charges|2|2| reach|Advanced Melee Weapons|2
+Core Hammer, Fusion|Plasma|13|48,200|6d6 E & F|-|jet 4d6|40 charges|5|2||Advanced Melee Weapons|2
+Plasma Ribbon, Competitor|Plasma|14|74,100|3d10 E & F|-|—|20 charges|1|0.1|operative, professional (dancer)|Advanced Melee Weapons|2
+Plasma Doshko, White Star|Plasma|15|126,800|5d10 E & F|-|severe wound|20 charges|2|1||Advanced Melee Weapons|2
+Flare Axe, Blue Star|Plasma|16|148,000|5d12 E & F|-|burn 3d6|20 charges|1|1||Advanced Melee Weapons|2
+Nova Lance, Blue Star|Plasma|17|279,000|8d6 E & F|-|severe wound|40 charges|4|2| reach|Advanced Melee Weapons|2
+Plasma Doshko, Blue Star|Plasma|18|364,100|7d10 E & F|-|severe wound|20 charges|2|1||Advanced Melee Weapons|2
+Plasma Ribbon, Champion|Plasma|19|578,000|6d10 E & F|-|—|20 charges|1|0.1|operative, professional (dancer)|Advanced Melee Weapons|2
+Core Hammer, Reactor|Plasma|20|725,000|15d6 E & F|-|jet 8d6|80 charges|8|2||Advanced Melee Weapons|2
+Polarity Gauntlets, Spark|Shock|1|410|1d3 E|-|—|20 charges|2|1|operative, polarize 1d3|Advanced Melee Weapons|2
+Stun Staff, Tactical|Shock|2|750|1d4 E|-|staggered|20 charges|1|1|block, stun|Advanced Melee Weapons|2
+Storm Hammer, Diamagnetic|Shock|3|1,300|1d8 B & E|-|knockdown|20 charges|2|1||Advanced Melee Weapons|2
+[Dragonglaives can only be wielded by Large creatures or creatures with Strength modifiers of at least +4.] Dragonglaive, Basic|Shock|4|2,000|1d8 S & E|-|—|20 charges|1|2| reach|Advanced Melee Weapons|2
+Polarity Gauntlets, Static|Shock|4|2,350|1d6 E|-|—|40 charges|2|1|operative, polarize 1d4|Advanced Melee Weapons|2
+Electroflail, Tactical|Shock|5|2,910|1d6 E|-|arc 1d6|20 charges|1|1|disarm|Advanced Melee Weapons|2
+Stun Staff, Static|Shock|6|4,210|1d10 E|-|staggered|20 charges|1|1|block, stun|Advanced Melee Weapons|2
+Storm Hammer, Paramagnetic|Shock|7|5,520|3d6 B & E|-|knockdown|20 charges|2|1||Advanced Melee Weapons|2
+[Dragonglaives can only be wielded by Large creatures or creatures with Strength modifiers of at least +4.] Dragonglaive, Thunderhead|Shock|8|9,000|2d8 S & E|-|—|20 charges|1|2| reach|Advanced Melee Weapons|2
+Polarity Gauntlets, Aurora|Shock|8|10,600|2d6 E|-|—|40 charges|4|1|operative, polarize 1d6|Advanced Melee Weapons|2
+Electroflail, Advanced|Shock|9|12,800|3d6 E|-|arc 2d6|20 charges|1|1|disarm|Advanced Melee Weapons|2
+Stun Staff, Aurora|Shock|10|18,100|3d8 E|-|staggered|20 charges|1|1|block, stun|Advanced Melee Weapons|2
+Storm Hammer, Ferromagnetic|Shock|11|22,900|6d6 B & E|-|knockdown|20 charges|2|1||Advanced Melee Weapons|2
+[Dragonglaives can only be wielded by Large creatures or creatures with Strength modifiers of at least +4.] Dragonglaive, Stormstrike|Shock|12|34,000|3d8 S & E|-|—|20 charges|1|2| reach|Advanced Melee Weapons|2
+Polarity Gauntlets, Current|Shock|12|39,100|3d6 E|-|—|80 charges|4|1|operative, polarize 2d6|Advanced Melee Weapons|2
+Stun Staff, Storm|Shock|13|50,200|4d10 E|-|staggered|20 charges|1|1|block, stun|Advanced Melee Weapons|2
+Electroflail, Elite|Shock|14|69,900|7d6 E|-|arc 3d6|20 charges|1|1|disarm|Advanced Melee Weapons|2
+Polarity Gauntlets, Storm|Shock|15|122,000|5d6 E|-|—|80 charges|8|1|operative, polarize 2d6|Advanced Melee Weapons|2
+[Dragonglaives can only be wielded by Large creatures or creatures with Strength modifiers of at least +4.] Dragonglaive, Skyshatter|Shock|16|160,000|8d8 S & E|-|—|20 charges|1|2| reach|Advanced Melee Weapons|2
+Storm Hammer, Antiferromagnetic|Shock|16|145,000|12d6 B & E|-|knockdown|20 charges|2|1||Advanced Melee Weapons|2
+Stun Staff, Tempest|Shock|17|244,000|6d10 E|-|staggered|20 charges|1|1|block, stun|Advanced Melee Weapons|2
+Electroflail, Paragon|Shock|18|360,000|11d6 E|-|arc 4d6|20 charges|1|1|disarm|Advanced Melee Weapons|2
+[Dragonglaives can only be wielded by Large creatures or creatures with Strength modifiers of at least +4.] Dragonglaive, Wyrmlord|Shock|19|525,000|13d8 S & E|-|—|20 charges|1|2| reach|Advanced Melee Weapons|2
+Polarity Gauntlets, Tempest|Shock|19|615,000|9d6 E|-|—|00 charges|1|1|operative, polarize 3d6|Advanced Melee Weapons|2
+Storm Hammer, Metamagnetic|Shock|20|728,000|20d6 B & E|-|knockdown|20 charges|2|1||Advanced Melee Weapons|2
+Seismic Pick, Light|Sonic|1|180|1d4 So|-|deafen|20 charges|1|1|penetrating, profession|Advanced Melee Weapons|2
+Vibrogarrote, Basic|Sonic|2|410|1d3 So|-|deafen|20 charges|1|0.1|conceal, grapple, operative, throttle|Advanced Melee Weapons|2
+Resonant Staff, Sonorous|Sonic|3|1,380|1d4 So|-|knockdown|20 charges|1|1|block, boost 1d4|Advanced Melee Weapons|2
+Singing Spear, Sopranino|Sonic|4|2,200|1d8 P & So|20 ft.|confuse|-|-|1|analog, thrown|Advanced Melee Weapons|2
+Seismic Pick, Heavy|Sonic|5|2,790|1d8 So|-|deafen|20 charges|1|1|penetrating, profession|Advanced Melee Weapons|2
+Interference Blade, Monophonic|Sonic|6|4,420|1d10 So|-|wound|40 charges|4|1||Advanced Melee Weapons|2
+Vibrogarrote, Harmonic|Sonic|7|7,200|2d4 So|-|deafen|20 charges|1|0.1|conceal, grapple, operative, throttle|Advanced Melee Weapons|2
+Singing Spear, Soprano|Sonic|8|9,500|2d8 P & So|20 ft.|confuse|-|-|1|analog, thrown|Advanced Melee Weapons|2
+Seismic Pick, Driver|Sonic|9|12,600|4d6 So|-|deafen|20 charges|1|1|penetrating, profession|Advanced Melee Weapons|2
+Interference Blade, Harmonic|Sonic|10|18,700|3d10 So|-|wound|40 charges|8|1||Advanced Melee Weapons|2
+Vibrogarrote, Interference|Sonic|11|27,100|3d6 So|-|deafen|20 charges|1|0.1|conceal, grapple, operative, throttle|Advanced Melee Weapons|2
+Singing Spear, Alto|Sonic|12|45,200|4d8 P & So|20 ft.|confuse|-|-|1|analog, thrown|Advanced Melee Weapons|2
+Resonant Staff, Reverberant|Sonic|13|49,900|5d6 So|-|knockdown|20 charges|1|1|block, boost 2d6|Advanced Melee Weapons|2
+Interference Blade, Polyphonic|Sonic|14|76,700|4d10 So|-|wound|00 charges|1|1||Advanced Melee Weapons|2
+Seismic Pick, Demolition|Sonic|15|101,000|6d8 So|-|deafen|20 charges|1|1|penetrating, profession|Advanced Melee Weapons|2
+Vibrogarrote, Infrasonic|Sonic|16|189,000|6d6 So|-|deafen|20 charges|1|0.1|conceal, grapple, operative, throttle|Advanced Melee Weapons|2
+Singing Spear, Tenor|Sonic|17|247,000|11d8 P & So|20 ft.|confuse|-|-|1|analog, thrown|Advanced Melee Weapons|2
+Resonant Staff, Stentorian|Sonic|18|381,000|8d6 So|-|knockdown|20 charges|1|1|block, boost 5d6|Advanced Melee Weapons|2
+Interference Blade, Multiphonic|Sonic|19|597,000|8d10 So|-|wound|00 charges|2|1||Advanced Melee Weapons|2
+Vibrogarrote, Ultrasonic|Sonic|20|927,000|10d6 So|-|deafen|20 charges|1|0.1|conceal, grapple, operative, throttle|Advanced Melee Weapons|2

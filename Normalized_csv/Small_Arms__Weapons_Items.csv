@@ -1,0 +1,218 @@
+Name|Category|Level|Price|Damage|Range|Critical|Capacity|Usage|Bulk|Special|Proficiency|Hands
+Needler Pistol|—|1|105|1d4 P|30 ft.|injection DC +2|6 darts|1|0.1|analog, injection|Small Arms|1
+Caustoject, Liquidator|—|1|225|1d4 A|30 ft.|Injection DC +2|20 charges|2|0.1|Injection|Small Arms|1
+Cestus Pistol, Tactical|—|1|250|1d4 P|Reach ft.|—|1 round|1|0|Conceal, punch gun|Small Arms|1
+Needler Pistol, Tactical|—|1|175|1d4 P|40 ft.|Injection DC +2|8 darts|1|1|Analog, injection|Small Arms|1
+Glove Needler, Tactical|—|2|560|1d4 A|Reach ft.|Injection DC +2|1 round|1|0|Conceal, injection, punch gun|Small Arms|1
+Acid Cannon, Micrergate|—|3|1,500|1d4 A|40 ft.|corrode 1d4|40 charges|2|0.1|Living, Swarm|Small Arms|1
+Graviton Pistol, Linear|—|3|1,450|—|0 ft.|knockdown|20 charges|4|2|gravitation (10 ft.)|Small Arms|1
+Nightarch Needler, Tactical|—|3|1,650|1d6 P|30 ft.|injection dc +2|5 darts|1|0.1|analog, injection|Small Arms|1
+Shield Projector, Sentry|—|4|2,180|—|40 ft.|—|40 charges|4|2|shield 1d4, unwieldy|Small Arms|1
+Sting Pistol, Ant|—|4|2,150|1d8 A & B|20 ft.|corrode 1d6|20 charges|5|0.1|living|Small Arms|1
+Neutriad Pistol|—|5|3,200|1d6 B|60 ft.|pulse 1d6|20 charges|1|0.1|Force|Small Arms|1
+Graviton Pistol, Vector|—|5|3,050|—|60 ft.|knockdown|40 charges|4|2|gravitation (15 ft.)|Small Arms|1
+Needler Pistol, Advanced|—|5|2,700|1d6 P|40 ft.|Injection DC +2|8 darts|1|1|Analog, injection|Small Arms|1
+Caustoject, Decimator|—|6|4,000|1d8 A|30 ft.|Injection DC +2|20 charges|2|0.1|Injection|Small Arms|1
+Cestus Pistol, Advanced|—|6|4,170|1d12 P|Reach ft.|Bleed 1d4|1 round|1|0|Conceal, punch gun|Small Arms|1
+Acid Cannon, Macrergate|—|7|7,000|2d6 A|40 ft.|corrode 2d4|40 charges|4|0.1|Living, Swarm|Small Arms|1
+Glove Needler, Advanced|—|7|5,800|1d12 A|Reach ft.|Injection DC +2|1 round|1|0|Conceal, injection, punch gun|Small Arms|1
+Tetrad Rings, Tactical|—|7|6,900|1d6 B|40 ft.|push (5 ft.)|20 charges|2|0.1|force|Small Arms|1
+Graviton Pistol, Tensor|—|8|9,800|—|60 ft.|knockdown|40 charges|4|2|gravitation (20 ft.)|Small Arms|1
+Nightarch Needler, Advanced|—|8|6,270|2d6 P|30 ft.|injection dc +2|5 darts|1|0.1|analog, injection|Small Arms|1
+Shield Projector, Defender|—|9|13,800|—|40 ft.|—|80 charges|10|2|shield 2d6, unwieldy|Small Arms|1
+Needler Pistol, Elite|—|10|17,250|2d8 P|40 ft.|Injection DC +2|8 darts|1|1|Analog, injection|Small Arms|1
+Sting Pistol, Yellow Jacket|—|10|18,500|2d8 A & B|40 ft.|corrode 2d6|20 charges|4|0.1|living|Small Arms|1
+Cestus Pistol, Elite|—|11|24,400|3d12 P|Reach ft.|Bleed 1d6|1 round|1|0|Conceal, punch gun|Small Arms|1
+Acid Cannon, Dinergate|—|12|36,000|3d8 A|40 ft.|corrode 3d4|40 charges|4|0.1|Living, Swarm|Small Arms|1
+Caustoject, Executioner|—|12|32,900|4d4 A|30 ft.|Injection DC +2|20 charges|2|0.1|Injection|Small Arms|1
+Tetrad Rings, Advanced|—|12|39,000|2d6 B|60 ft.|push (5 ft.)|20 charges|2|0.1|force|Small Arms|1
+Graviton Pistol, Chiral|—|13|49,500|—|60 ft.|knockdown|40 charges|4|2|gravitation (25 ft.)|Small Arms|1
+Nightarch Needler, Elite|—|13|44,980|4d6 P|30 ft.|injection dc +2|5 darts|1|0.1|analog, injection|Small Arms|1
+Glove Needler, Elite|—|14|69,300|3d12 A|Reach ft.|Injection DC +2|1 round|1|0|Conceal, injection, punch gun|Small Arms|1
+Shield Projector, Guardian|—|14|75,200|—|40 ft.|—|80 charges|16|2|shield 2d12, unwieldy|Small Arms|1
+Needler Pistol, Paragon|—|15|94,500|6d6 P|40 ft.|Injection DC +2|8 darts|1|1|Analog, injection|Small Arms|1
+Sting Pistol, Wasp|—|15|113,000|5d8 A & B|60 ft.|corrode 3d6|40 charges|4|0.1|living|Small Arms|1
+Cestus Pistol, Paragon|—|16|162,000|6d12 P|Reach ft.|Bleed 1d8|1 round|1|0|Conceal, punch gun|Small Arms|1
+Acid Cannon, Ergatoid|—|17|256,000|4d10 A|40 ft.|corrode 4d4|40 charges|5|0.1|Living, Swarm|Small Arms|1
+Caustoject, Eradicator|—|18|242,300|6d8 A|30 ft.|Injection DC +2|20 charges|2|0.1|Injection|Small Arms|1
+Nightarch Needler, Paragon|—|18|369,000|8d6 P|30 ft.|injection dc +2|5 darts|1|0.1|analog, injection|Small Arms|1
+Sting Pistol, Hornet|—|18|381,000|6d8 A & B|80 ft.|corrode 4d6|40 charges|2|0.1|living|Small Arms|1
+Shield Projector, Warden|—|19|594,000|—|40 ft.|—|100 charges|20|2|shield 4d12, unwieldy|Small Arms|1
+Tetrad Rings, Elite|—|19|620,000|5d6 B|60 ft.|push (10 ft.)|20 charges|2|0.1|force|Small Arms|1
+Glove Needler, Paragon|—|20|765,000|6d12 A|Reach ft.|Injection DC +2|1 round|1|0|Conceal, injection, punch gun|Small Arms|1
+Needler Pistol, Supreme|—|20|725,000|8d8 P|40 ft.|Injection DC +2|8 darts|1|1|Analog, injection|Small Arms|1
+Hail Pistol, Subzero|Cryo|1|120|1d4 C & P|20 ft.|bleed 1d4|20 charges|1|0.1|—|Small Arms|1
+Subduer, Frost|Cryo|2|790|1d3 C|40 ft.|staggered|20 charges|1|0.1|nonlethal|Small Arms|1
+Bone Pistol, Grave-Class|Cryo|3|900|1d4 C|40 ft.|—|20 charges|4|0.1|antibiological|Small Arms|1
+Frailty Pistol, Rasp-Class|Cryo|4|2,420|1d4 C|60 ft.|—|10 charges|1|0.1|necrotic|Small Arms|1
+Shadow Pistol, Caliginous|Cryo|4|2,100|1d4 C|60 ft.|blind|40 charges|4|0.1|—|Small Arms|1
+Zero Pistol, Frostbite-Class|Cryo|5|3,060|1d6 C|60 ft.|staggered|20 charges|1|0.1|—|Small Arms|1
+Bone Pistol, Crypt-Class|Cryo|6|4,350|1d6 C|40 ft.|—|20 charges|4|0.1|antibiological|Small Arms|1
+Shadow Pistol, Sable|Cryo|7|6,750|1d10 C|60 ft.|blind|40 charges|4|0.1|—|Small Arms|1
+Hail Pistol, Gelid|Cryo|8|8,600|2d6 C & P|20 ft.|bleed 1d6|20 charges|1|0.1|—|Small Arms|1
+Frailty Pistol, Wail-Class|Cryo|9|15,400|2d4 C|60 ft.|—|20 charges|2|0.1|necrotic|Small Arms|1
+Subduer, Rime|Cryo|9|13,200|1d12 C|60 ft.|staggered|20 charges|1|0.1|nonlethal|Small Arms|1
+Zero Pistol, Hailstorm-Class|Cryo|10|16,900|2d6 C|60 ft.|staggered|40 charges|2|0.1|—|Small Arms|1
+Bone Pistol, Sepulcher-Class|Cryo|11|25,500|2d8 C|40 ft.|—|20 charges|4|0.1|antibiological|Small Arms|1
+Shadow Pistol, Tenebrous|Cryo|12|35,400|2d10 C|60 ft.|blind|40 charges|4|0.1|—|Small Arms|1
+Subduer, Sleet|Cryo|13|50,500|3d6 C|60 ft.|staggered|20 charges|1|0.1|nonlethal|Small Arms|1
+Frailty Pistol, Scream-Class|Cryo|14|85,800|4d4 C|60 ft.|—|20 charges|2|0.1|necrotic|Small Arms|1
+Hail Pistol, Ultracold|Cryo|14|63,200|3d8 C & P|40 ft.|bleed 1d8|20 charges|2|0.1|—|Small Arms|1
+Zero Pistol, Blizzard-Class|Cryo|15|94,500|4d6 C|60 ft.|staggered|40 charges|2|0.1|—|Small Arms|1
+Subduer, Glacier|Cryo|16|169,000|3d10 C|60 ft.|staggered|20 charges|1|0.1|nonlethal|Small Arms|1
+Hail Pistol, Absolute-Zero|Cryo|17|218,000|5d8 C & P|40 ft.|bleed 1d10|20 charges|2|0.1|—|Small Arms|1
+Bone Pistol, Vault-Class|Cryo|18|591,000|5d8 C|40 ft.|—|40 charges|4|0.1|antibiological|Small Arms|1
+Frailty Pistol, Deathcry-Class|Cryo|18|440,000|6d4 C|60 ft.|—|40 charges|4|0.1|necrotic|Small Arms|1
+Zero Pistol, Avalanche-Class|Cryo|19|492,900|6d6 C|60 ft.|staggered|80 charges|4|0.1|—|Small Arms|1
+Shadow Pistol, Umbral|Cryo|20|855,000|5d10 C|60 ft.|blind|40 charges|4|0.1|—|Small Arms|1
+[Relics do not sell for full resale value, but can be sold for 50% of their value instead of 10%. Relics do not come with ammunition (which must be purchased separately).] Disruption Pistol, Minor|Dimensional Disruption|7|7,500|2d6 So|40 ft.|staggered|20 charges|2|0.1|boost 1d6, relic|Small Arms|1
+[Relics do not sell for full resale value, but can be sold for 50% of their value instead of 10%. Relics do not come with ammunition (which must be purchased separately).] Disruption Pistol, Major|Dimensional Disruption|12|40,000|3d6 So|40 ft.|staggered|40 charges|4|0.1|boost 2d6, relic|Small Arms|1
+Decoupler, Bruiser|Disintegrator|1|430|1d4 A|20 ft.|demoralize|20 charges|2|0.1|—|Small Arms|1
+Decoupler, Pusher|Disintegrator|4|2,300|1d6 A|30 ft.|demoralize|40 charges|2|0.1|—|Small Arms|1
+Disintegration Pistol, Liquidator|Disintegrator|6|4,500|1d10 A|15 ft.|—|20 charges|2|0.1|—|Small Arms|1
+Disintegrator Pistol, Liquidator|Disintegrator|6|4,500|1d10 A|15 ft.|—|20 charges|2|0.1|—|Small Arms|1
+Decoupler, Screamer|Disintegrator|8|10,800|1d10 A|30 ft.|demoralize|40 charges|2|0.1|—|Small Arms|1
+Disintegration Pistol, Decimator|Disintegrator|11|28,000|1d20 A|20 ft.|—|20 charges|2|0.1|—|Small Arms|1
+Disintegrator Pistol, Decimator|Disintegrator|11|28,000|1d20 A|20 ft.|—|20 charges|2|0.1|—|Small Arms|1
+Disintegration Pistol, Executioner|Disintegrator|16|200,000|2d20 A|25 ft.|corrode 1d6|40 charges|4|0.1|—|Small Arms|1
+Disintegrator Pistol, Executioner|Disintegrator|16|200,000|2d20 A|25 ft.|corrode 1d6|40 charges|4|0.1|—|Small Arms|1
+Disintegration Pistol, Eradicator|Disintegrator|20|745,000|3d20 A|30 ft.|corrode 2d6|40 charges|4|0.1|—|Small Arms|1
+Disintegrator Pistol, Eradicator|Disintegrator|20|745,000|3d20 A|30 ft.|corrode 2d6|40 charges|4|0.1|—|Small Arms|1
+Flare Gun, Survival|Flame|1|90|1d3 F|30 ft.|burn 1d6|1 flare|1|0.1|analog, bright|Small Arms|1
+Mercy Pistol, Illuminator|Flame|1|275|1d6 F|20 ft.|—|20 charges|2|0.1|Nonlethal|Small Arms|1
+Flame Pistol|Flame|2|470|1d4 F|20 ft.|burn 1d4|20 petrol|4|0.1|line, unwieldy|Small Arms|1
+Wave Modulator, I|Flame|2|1,080|"1d4 F|so"|30 ft.|—|20 charges|4|0.1|modal (sonic)|Small Arms|1
+Shellgun, Bombard|Flame|3|1,150|1d6 F|10 ft.|burn 1d4|1 shell|1|0.1|—|Small Arms|1
+Scorchgun, Microwave|Flame|4|2,050|1d6 F|60 ft.|—|20 charges|1|0.1|stun|Small Arms|1
+Dragon Pistol, Wyrmling|Flame|5|2,650|1d6 F|30 ft.|burn 1d6|20 petrol|1|0.1|—|Small Arms|1
+Trilaser, Tactical|Flame|5|3,200|1d6 F|80 ft.|burn 1d4|20 charges|1|0.1|aeon|Small Arms|1
+Wave Modulator, II|Flame|5|3,400|"1d6 F|so"|30 ft.|—|20 charges|4|0.1|modal (sonic)|Small Arms|1
+Mercy Pistol, Infrared|Flame|6|4,300|2d6 F|20 ft.|—|20 charges|2|0.1|Nonlethal|Small Arms|1
+Radshot, Electromagnetic|Flame|6|4,010|2d4 F|40 ft.|irradiate|40 charges|1|0.1|radioactive|Small Arms|1
+Flame Pistol, Blaze|Flame|7|5,500|2d4 F|20 ft.|burn 1d4|20 petrol|5|0.1|line, unwieldy|Small Arms|1
+Scorchgun, S-Band|Flame|8|9,350|1d10 F|60 ft.|—|20 charges|1|0.1|stun|Small Arms|1
+Wave Modulator, III|Flame|8|11,000|"2d4 F|so"|30 ft.|—|20 charges|4|0.1|modal (sonic)|Small Arms|1
+Shellgun, Blaze|Flame|9|11,500|2d6 F|20 ft.|burn 1d6|2 shells|2|0.1|—|Small Arms|1
+Dragon Pistol, Drake|Flame|10|17,000|3d4 F|30 ft.|burn 2d4|20 petrol|1|0.1|—|Small Arms|1
+Trilaser, Advanced|Flame|10|17,600|2d6 F|90 ft.|burn 2d4|40 charges|2|0.1|aeon|Small Arms|1
+Flame Pistol, Inferno|Flame|11|23,000|2d8 F|30 ft.|burn 1d8|20 petrol|5|0.1|line, unwieldy|Small Arms|1
+Mercy Pistol, Ultraviolet|Flame|11|25,000|4d6 F|30 ft.|—|20 charges|2|0.1|Nonlethal|Small Arms|1
+Wave Modulator, IV|Flame|11|28,600|"2d8 F|so"|30 ft.|—|20 charges|4|0.1|modal (sonic)|Small Arms|1
+Shellgun, Fury|Flame|12|30,500|3d6 F|20 ft.|burn 2d6|8 shells|8|0.1|—|Small Arms|1
+Scorchgun, C-Band|Flame|13|49,100|2d10 F|60 ft.|—|20 charges|1|0.1|stun|Small Arms|1
+Radshot, Neutron|Flame|14|69,500|5d4 F|40 ft.|irradiate|80 charges|2|0.1|radioactive|Small Arms|1
+Wave Modulator, V|Flame|14|81,000|"2d10 F|so"|60 ft.|—|20 charges|4|0.1|modal (sonic)|Small Arms|1
+Dragon Pistol, Wyvern|Flame|15|95,000|4d6 F|30 ft.|burn 3d6|20 petrol|1|0.1|—|Small Arms|1
+Trilaser, Elite|Flame|15|105,600|4d6 F|90 ft.|burn 3d4|40 charges|2|0.1|aeon|Small Arms|1
+Scorchgun, K-Band|Flame|16|165,000|3d10 F|60 ft.|—|20 charges|1|0.1|stun|Small Arms|1
+Wave Modulator, VI|Flame|16|195,000|"3d10 F|so"|60 ft.|—|40 charges|4|0.1|modal (sonic)|Small Arms|1
+Flame Pistol, Solar Flare|Flame|17|220,000|3d10 F|30 ft.|burn 2d6|20 petrol|5|0.1|line, unwieldy|Small Arms|1
+Scorchgun, X-Band|Flame|18|368,000|3d10 F|60 ft.|—|20 charges|1|0.1|stun|Small Arms|1
+Dragon Pistol, True|Flame|19|489,000|5d8 F|40 ft.|burn 5d6|20 petrol|1|0.1|—|Small Arms|1
+Radshot, Rapid-Decay|Flame|20|767,000|11d4 F|40 ft.|irradiate|80 charges|4|0.1|radioactive|Small Arms|1
+Trilaser, Paragon|Flame|20|739,250|8d6 F|100 ft.|burn 4d4|80 charges|4|0.1|aeon|Small Arms|1
+Wave Modulator, VII|Flame|20|919,000|"4d10 F|so"|80 ft.|—|40 charges|4|0.1|modal (sonic)|Small Arms|1
+Laser Pistol, Azimuth|Laser|1|350|1d4 F|80 ft.|burn 1d4|20 charges|1|0.1|—|Small Arms|1
+Shoulder Laser, Azimuth|Laser|2|870|1d3 F|40 ft.|—|20 charges|1|0.1|integrated (1 slot)|Small Arms|1
+Membrane Holdout Pistol|Laser|3|1,250|1d6 F|80 ft.|burn 1d6|20 charges|1|0.1|—|Small Arms|1
+Compliance Ray, Flash|Laser|3|1,400|1d6 F|60 ft.|blind|20 charges|1|0.1|nonlethal|Small Arms|1
+Lens Pistol, Cylindrical|Laser|4|1,850|1d8 F|80 ft.|burn 1d4|20 charges|2|0.1|unwieldy|Small Arms|1
+Laser Pistol, Corona|Laser|6|4,270|2d4 F|90 ft.|burn 1d4|20 charges|1|0.1|—|Small Arms|1
+Compliance Ray, Flare|Laser|7|6,400|2d4 F|6 ft.|blind|20 charges|1|0.1|nonlethal|Small Arms|1
+Shoulder Laser, Corona|Laser|8|9,700|1d8 F|40 ft.|burn 1d6|20 charges|1|0.1|integrated (1 slot)|Small Arms|1
+Laser Pistol, Aphelion|Laser|9|14,820|3d4 F|90 ft.|burn 1d4|40 charges|2|0.1|boost 1d4|Small Arms|1
+Lens Pistol, Lenticular|Laser|10|17,100|2d8 F|80 ft.|burn 1d8|40 charges|4|0.1|unwieldy|Small Arms|1
+Compliance Ray, Strobe|Laser|11|25,100|4d4 F|60 ft.|blind|20 charges|1|0.1|nonlethal|Small Arms|1
+Laser Pistol, Perihelion|Laser|12|40,200|4d4 F|90 ft.|burn 2d4|40 charges|2|0.1|—|Small Arms|1
+Shoulder Laser, Aphelion|Laser|13|51,500|2d8 F|40 ft.|burn 2d6|20 charges|1|0.1|integrated (1 slot)|Small Arms|1
+Laser Pistol, Parallax|Laser|14|82,000|5d4 F|90 ft.|burn 3d4|80 charges|4|0.1|boost 2d4|Small Arms|1
+Compliance Ray, Starburst|Laser|15|171,000|6d4 F|60 ft.|blind|20 charges|1|0.1|nonlethal|Small Arms|1
+Lens Pistol, Electron|Laser|16|146,000|4d8 F|100 ft.|burn 2d8|80 charges|5|0.1|unwieldy|Small Arms|1
+Laser Pistol, Zenith|Laser|17|245,200|8d4 F|100 ft.|burn 4d4|80 charges|4|0.1|—|Small Arms|1
+Shoulder Laser, Perihelion|Laser|18|383,000|3d8 F|40 ft.|burn 3d6|20 charges|1|0.1|integrated (1 slot)|Small Arms|1
+Compliance Ray, Sunspot|Laser|19|545,000|9d4 F|80 ft.|blind|20 charges|1|0.1|nonlethal|Small Arms|1
+Lens Pistol, Sunglass|Laser|20|728,000|7d8 F|120 ft.|burn 3d8|80 charges|8|0.1|unwieldy|Small Arms|1
+Plasma Claw, Electocellular|Plasma|1|280|1d4 E & F|20 ft.|—|20 charges|2|0.1|living|Small Arms|1
+Forked Pistol, 6-Notch|Plasma|2|720|1d3 E & F|30 ft.|burn 1d4|20 charges|1|0.1|boost 1|Small Arms|1
+Cavitation Pistol, Vapor|Plasma|3|1,430|1d6 E & F|20 ft.|pulse 1d4|20 charges|5|0.1|unwieldy|Small Arms|1
+Plasma Ring, Single-Valve|Plasma|4|2,350|1d4 E & F|40 ft.|wound|40 charges|4|0.1|—|Small Arms|1
+Plasma Claw, Synthecite|Plasma|5|3,350|1d6 E & F|30 ft.|—|20 charges|4|0.1|living|Small Arms|1
+Forked Pistol, 8-Notch|Plasma|6|4,100|1d4 E & F|30 ft.|burn 1d4|20 charges|1|0.1|boost 1d4|Small Arms|1
+Plasma Pistol, Red Star|Plasma|7|7,200|1d8 E & F|20 ft.|burn 1d8|20 charges|4|0.1|line, unwieldy|Small Arms|1
+Cavitation Pistol, Inertial|Plasma|8|9,700|2d6 E & F|20 ft.|pulse 1d6|40 charges|5|0.1|unwieldy|Small Arms|1
+Persuader|Plasma|9|13,500|2d4 E & F|30 ft.|wound|20 charges|2|0.1|boost 1d4|Small Arms|1
+Plasma Claw, Organic|Plasma|10|20,100|2d6 E & F|30 ft.|—|40 charges|8|0.1|living|Small Arms|1
+Plasma Ring, Dual-Valve|Plasma|11|2,700|2d8 E & F|50 ft.|wound|40 charges|4|0.1|—|Small Arms|1
+Plasma Pistol, Yellow Star|Plasma|12|40,300|2d8 E & F|25 ft.|burn 1d8|40 charges|8|0.1|line, unwieldy|Small Arms|1
+Forked Pistol, 9-Notch|Plasma|13|48,100|4d4 E & F|30 ft.|burn 3d4|40 charges|2|0.1|boost 2d4|Small Arms|1
+Cavitation Pistol, Hydrodynamic|Plasma|14|75,200|2d12 E & F|40 ft.|pulse 2d6|40 charges|8|0.1|unwieldy|Small Arms|1
+Plasma Pistol, White Star|Plasma|15|107,500|3d8 E & F|30 ft.|burn 2d8|100 charges|20|0.1|line, unwieldy|Small Arms|1
+Plasma Claw, Biodynamic|Plasma|16|189,000|4d6 E & F|30 ft.|—|40 charges|8|0.1|living|Small Arms|1
+Plasma Ring, Multichannel|Plasma|17|280,000|4d8 E & F|60 ft.|wound|40 charges|4|0.1|—|Small Arms|1
+Cavitation Pistol, Thermodynamic|Plasma|18|584,000|3d12 E & F|20 ft.|pulse 3d6|80 charges|10|0.1|unwieldy|Small Arms|1
+Plasma Pistol, Blue Star|Plasma|19|565,000|5d8 E & F|40 ft.|burn 3d8|100 charges|20|0.1|line, unwieldy|Small Arms|1
+Forked Pistol, 10-Notch|Plasma|20|801,000|9d4 E & F|30 ft.|burn 4d4|40 charges|4|0.1|boost 5d4|Small Arms|1
+Semi-Auto Pistol, Tactical|Projectile|1|260|1d6 P|30 ft.|—|9 rounds|1|0.1|analog|Small Arms|1
+Ember Pistol, Truth-Sequence|Projectile|2|525|1d6 P|30 ft.|burn 1d4|8 rounds|1|0.1|—|Small Arms|1
+Handcannon, Bravado|Projectile|2|790|1d8 P|20 ft.|knockdown|1 shell|1|1|analog, free hands (1), unwieldy|Small Arms|1
+Injector Pistol, Medic|Projectile|3|1,290|1d6 P|40 ft.|injection DC +2|10 darts|1|0.1|injection|Small Arms|1
+Rotating Pistol, Tactical|Projectile|4|1,900|2d4 P|20 ft.|—|4 rounds|1|0.1|analog, conceal|Small Arms|1
+Injector Pistol, Zoologist|Projectile|5|2,890|1d8 P|60 ft.|injection dc +3|20 darts|1|0.1|injection|Small Arms|1
+Handcannon, Swagger|Projectile|6|4,350|1d12 P|40 ft.|knockdown|6 shells|1|1|analog, free hands (1), unwieldy|Small Arms|1
+Ember Pistol, Salvation-Sequence|Projectile|7|5,700|2d6 P|30 ft.|burn 1d4|10 rounds|1|0.1|—|Small Arms|1
+Semi-Auto Pistol, Advanced|Projectile|7|5,500|2d6 P|60 ft.|—|12 rounds|1|0.1|analog|Small Arms|1
+Injector Pistol, Poacher|Projectile|8|9,050|2d6 P|60 ft.|injection dc +4|21 darts|1|0.1|injection|Small Arms|1
+Handcannon, Bombast|Projectile|9|13,200|2d10 P|40 ft.|knockdown|8 shells|1|1|analog, free hands (1), unwieldy|Small Arms|1
+Semi-Auto Pistol, Elite|Projectile|10|18,200|3d6 P|60 ft.|—|12 rounds|1|0.1|analog|Small Arms|1
+Ember Pistol, Valor-Sequence|Projectile|11|23,400|3d6 P|40 ft.|burn 2d4|12 rounds|1|0.1|—|Small Arms|1
+Rotating Pistol, Advanced|Projectile|11|23,400|4d4 P|30 ft.|—|8 rounds|1|0.1|analog, conceal|Small Arms|1
+Handcannon, Braggadocio|Projectile|12|35,100|3d8 P|40 ft.|knockdown|9 shells|1|1|analog, free hands (1), unwieldy|Small Arms|1
+Semi-Auto Pistol, Paragon|Projectile|13|45,200|4d6 P|60 ft.|—|16 rounds|1|0.1|analog|Small Arms|1
+Ember Pistol, Glory-Sequence|Projectile|14|65,800|4d6 P|40 ft.|burn 2d6|16 rounds|1|0.1|—|Small Arms|1
+Injector Pistol, Subjugation|Projectile|14|68,500|5d6 P|80 ft.|injection dc +5|22 darts|1|0.1|injection|Small Arms|1
+Gyrojet Pistol, Tactical|Projectile|15|91,500|3d12 B|80 ft.|knockdown|8 mini-rockets|1|0.1|analog|Small Arms|1
+Rotating Pistol, Elite|Projectile|16|153,000|8d4 P|40 ft.|—|9 rounds|1|0.1|analog, conceal|Small Arms|1
+Gyrojet Pistol, Advanced|Projectile|17|212,700|4d12 B|80 ft.|knockdown|8 mini-rockets|1|0.1|analog|Small Arms|1
+Handcannon, Gasconade|Projectile|18|364,000|8d8 P|40 ft.|knockdown|12 shells|1|1|analog, free hands (1), unwieldy|Small Arms|1
+Injector Pistol, Elite|Projectile|19|532,000|9d6 P|80 ft.|injection dc +6|23 darts|1|0.1|injection|Small Arms|1
+Gyrojet Pistol, Elite|Projectile|20|715,800|5d12 B|80 ft.|knockdown|8 mini-rockets|1|0.1|analog|Small Arms|1
+Pulsecaster Pistol|Shock|1|250|1d4 E|30 ft.|—|20 charges|1|0.1|nonlethal|Small Arms|1
+Arc Pistol, Static|Shock|2|750|1d6 E|50 ft.|arc 2|20 charges|2|0.1|stun|Small Arms|1
+Handcoil, Explorer|Shock|3|1,200|1d6 E|40 ft.|arc 1d6|20 charges|2|0.1|—|Small Arms|1
+Anchor Pistol, Voltaic|Shock|4|2,100|1d6 E|40 ft.|bind|40 charges|2|0.1|nonlethal|Small Arms|1
+Lightning Pistol, Sheet|Shock|5|3,000|1d6 E|20 ft.|—|40 charges|4|0.1|line, stun, unwieldy|Small Arms|1
+Ionizer, Cupric|Shock|6|4,650|2d4 E|30 ft.|arc 1d6|20 charges|1|0.1|integrated (2 slots), unwieldy|Small Arms|1
+Handcoil, Fighter|Shock|7|5,600|1d10 E|40 ft.|arc 1d10|20 charges|2|0.1|—|Small Arms|1
+Lightning Pistol, Ribbon|Shock|8|9,700|1d8 E|30 ft.|—|40 charges|5|0.1|line, stun, unwieldy|Small Arms|1
+Anchor Pistol, Emergent|Shock|9|13,200|2d6 E|40 ft.|bind|40 charges|4|0.1|nonlethal|Small Arms|1
+Ionizer, Feric|Shock|10|20,100|4d4 E|30 ft.|arc 2d4|20 charges|1|0.1|integrated (2 slots), unwieldy|Small Arms|1
+Handcoil, Pilot|Shock|11|24,000|2d8 E|60 ft.|arc 2d8|40 charges|4|0.1|—|Small Arms|1
+Lightning Pistol, Rocket|Shock|12|37,000|2d8 E|30 ft.|—|40 charges|8|0.1|line, stun, unwieldy|Small Arms|1
+Arc Pistol, Aurora|Shock|13|45,700|3d6 E|50 ft.|arc 2d6|40 charges|2|0.1|stun|Small Arms|1
+Ionizer, Chromic|Shock|14|80,000|5d4 E|30 ft.|arc 3d4|20 charges|1|0.1|integrated (2 slots), unwieldy|Small Arms|1
+Anchor Pistol, Inductive|Shock|15|108,000|4d6 E|40 ft.|bind|80 charges|4|0.1|nonlethal|Small Arms|1
+Handcoil, Capital|Shock|16|150,000|3d8 E|80 ft.|arc 3d8|40 charges|4|0.1|—|Small Arms|1
+Lightning Pistol, Smooth-Channel|Shock|17|260,000|3d10 E|40 ft.|—|40 charges|10|0.1|line, stun, unwieldy|Small Arms|1
+Arc Pistol, Storm|Shock|18|365,500|3d12 E|50 ft.|arc 4d6|100 charges|10|0.1|stun|Small Arms|1
+Ionizer, Stannic|Shock|19|611,000|5d8 E|30 ft.|arc 5d8|20 charges|1|0.1|integrated (2 slots), unwieldy|Small Arms|1
+Anchor Pistol, Flux|Shock|20|814,000|8d6 E|60 ft.|bind|80 charges|5|0.1|nonlethal|Small Arms|1
+Dirge Pistol, Harmonic|Sonic|1|440|1d3 So|20 ft.|sicken|20 charges|1|0.1|antibiological|Small Arms|1
+Perforator Pistol, Diffraction|Sonic|2|500|1d4 So|20 ft.|bleed 1d4|20 charges|2|0.1|penetrating|Small Arms|1
+Sonic Suppressor, Murmur|Sonic|3|1,430|1d4 So|40 ft.|stifle|20 charges|2|0.1|—|Small Arms|1
+Sonic Pistol, Thunderstrike|Sonic|4|2,300|1d8 So|40 ft.|deafen|20 charges|2|0.1|—|Small Arms|1
+Shrieking Larva|Sonic|5|2,800|1d8 So|30 ft.|deafen|20 charges|4|0.1|living, thought, unwieldy|Small Arms|1
+Dirge Pistol, Resonant|Sonic|6|4,950|1d8 So|40 ft.|sicken|20 charges|1|0.1|antibiological|Small Arms|1
+Resonant Pistol, Lattice|Sonic|7|6,100|1d6 So|40 ft.|deafen|40 charges|2|0.1|boost 1d6|Small Arms|1
+Sonic Suppressor, Whisper|Sonic|8|9,700|2d4 So|40 ft.|stifle|40 charges|2|0.1|—|Small Arms|1
+Perforator Pistol, Refraction|Sonic|9|13,000|2d6 So|20 ft.|bleed 1d6|40 charges|4|0.1|penetrating|Small Arms|1
+Dirge Pistol, Anharmonic|Sonic|10|20,500|3d4 So|40 ft.|sicken|20 charges|1|0.1|antibiological|Small Arms|1
+Sonic Pistol, LFD|Sonic|11|26,200|2d8 So|40 ft.|deafen|40 charges|4|0.1|boost 1d6|Small Arms|1
+Sonic Suppressor, Hush|Sonic|12|36,500|2d8 So|40 ft.|stifle|40 charges|2|0.1|—|Small Arms|1
+Perforator Pistol, Linear|Sonic|13|46,000|2d10 So|20 ft.|bleed 2d6|40 charges|5|0.1|penetrating|Small Arms|1
+Sonic Pistol, HFD|Sonic|14|71,300|3d8 So|40 ft.|deafen|60 charges|6|0.1|—|Small Arms|1
+Dirge Pistol, Parametric|Sonic|15|133,000|6d4 So|60 ft.|sicken|20 charges|1|0.1|antibiological|Small Arms|1
+Sonic Pistol, Banshee|Sonic|16|191,000|4d8 So|40 ft.|deafen|80 charges|8|0.1|boost 1d10|Small Arms|1
+Sonic Suppressor, Repose|Sonic|17|257,000|4d8 So|40 ft.|stifle|40 charges|2|0.1|—|Small Arms|1
+Resonant Pistol, Matrix|Sonic|18|358,000|5d6 So|40 ft.|deafen|40 charges|2|0.1|boost 2d6|Small Arms|1
+Dirge Pistol, Radial|Sonic|19|660,000|10d4 So|60 ft.|sicken|20 charges|1|0.1|antibiological|Small Arms|1
+Perforator Pistol, Phased|Sonic|20|732,000|5d10 So|40 ft.|bleed|40 charges|8|0.1|penetrating|Small Arms|1

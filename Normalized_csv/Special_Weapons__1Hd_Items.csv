@@ -1,0 +1,9 @@
+Name|Category|Level|Price|Damage|Range|Critical|Capacity|Usage|Bulk|Special|Proficiency|Hands
+Carbonedge Shuriken (10)|—|1|85|1d4 P|10 ft.|bleed 1d4|drawn| |0|quick reload, thrown|Special Weapons|1
+Nyfiber Net|—|2|460|—|10 ft.|—|drawn| |1|—|Special Weapons|1
+Shuriken, Grooved|—|4|370|1d8 P|20 ft.|injection DC +2|drawn| |0.1|injection, quick reload, thrown|Special Weapons|1
+Shuriken, Microserrated|—|7|1,120|3d6 P|20 ft.|Bleed|drawn| |0.1|quick reload, thrown|Special Weapons|1
+Shuriken, Flash|—|10|3,120|4d6 F|20 ft.|Blind|drawn| |0.1|quick reload, thrown|Special Weapons|1
+Shuriken, Singing|—|13|8,550|6d6 So|20 ft.|Confuse|drawn| |0.1|quick reload, thrown|Special Weapons|1
+Shuriken, Ultraserrated|—|16|29,100|7d10 P|20 ft.|Bleed|drawn| |0.1|quick reload, thrown|Special Weapons|1
+Shuriken, Dynamo|—|19|98,000|12d6 E|40 ft.|—|drawn| |0.1|quick reload, thrown|Special Weapons|1

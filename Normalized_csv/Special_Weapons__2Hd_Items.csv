@@ -1,0 +1,6 @@
+Name|Category|Level|Price|Damage|Range|Critical|Capacity|Usage|Bulk|Special|Proficiency|Hands
+Bow|—|1|255|1d6 P|60 ft.|—|drawn|1|1|quick reload|Special Weapons|2
+Battlebow, Tactical|—|4|1,900|1d8 P|120 ft.|—|drawn|1|1|analog, archaic, quick reload|Special Weapons|2
+Battlebow, Advanced|—|8|8,750|2d8 P|120 ft.|—|drawn|1|1|analog, archaic, quick reload|Special Weapons|2
+Battlebow, Elite|—|12|31,000|3d8 P|120 ft.|—|drawn|1|1|analog, archaic, quick reload|Special Weapons|2
+Battlebow, Paragon|—|16|150,000|6d8 P|120 ft.|—|drawn|1|1|analog, archaic, quick reload|Special Weapons|2

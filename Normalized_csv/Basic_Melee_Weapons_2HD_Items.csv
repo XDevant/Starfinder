@@ -1,0 +1,45 @@
+Name|Category|Level|Price|Damage|Range|Critical|Capacity|Usage|Bulk|Special|Proficiency|Hands
+Spear, Tactical|—|1|375|1d6 P|20 ft.|—|-|-|1|analog, block, thrown|Basic Melee Weapons|2
+Staff, Battle|—|1|80|1d4 B|-|knockdown|-|-|1|analog, block|Basic Melee Weapons|2
+Syringe Spear, Tactical|—|1|250|1d6 P|-|Injection DC +2|-|-|0.1|injection|Basic Melee Weapons|2
+Warclub|—|2|450|1d10 B|-|—|-|-|1|analog|Basic Melee Weapons|2
+Garrote, Wire|—|2|900|1d2 S|-|—|-|-|0.1|analog, conceal, grapple, operative, throttle|Basic Melee Weapons|2
+Greataxe, Tactical|—|3|1,100|1d12 S|-|—|-|-|1|analog|Basic Melee Weapons|2
+Lance, Tactical|—|3|1,450|1d6 P|-|—|-|-|1|analog, reach|Basic Melee Weapons|2
+Chitinblade, Tactical|—|4|1,890|1d6 S|-|bleed 1d6|-|-|1|analog|Basic Melee Weapons|2
+Puzzleblade, Conviction|—|4|2,100|1d6 S|-|—|-|-|1|breakdown|Basic Melee Weapons|2
+Living Staff, Tactical|—|5|3,300|1d6 B|-|bind|20 charges|1|1|block, living, reach|Basic Melee Weapons|2
+Maul, Tactical|—|5|250|1d8 B|-|knockdown|-|-|1|analog, unwieldy|Basic Melee Weapons|2
+Greataxe, Sintered|—|6|4,150|3d6 S|-|—|-|-|1|analog|Basic Melee Weapons|2
+Scythe, Tactical|—|6|3,900|1d8 S|-|—|-|-|1|analog, trip|Basic Melee Weapons|2
+Syringe Spear, Advanced|—|6|4,250|1d8 P|-|Injection DC +2|-|-|0.1|injection|Basic Melee Weapons|2
+Garrote, Nanofiber|—|7|6,700|2d4 S|-|—|-|-|0.1|analog, conceal, grapple, operative, throttle|Basic Melee Weapons|2
+Staff, Carbon|—|7|6,150|1d8 B|-|knockdown|-|-|1|analog, block|Basic Melee Weapons|2
+Lance, Advanced|—|8|9,400|2d6 P|-|—|-|-|1|analog, reach|Basic Melee Weapons|2
+Spear, Sentinel|—|8|10,000|2d6 P|20 ft.|—|-|-|1|analog, block, thrown|Basic Melee Weapons|2
+Chitinblade, Microserrated|—|9|12,400|4d4 S|-|bleed 2d4|-|-|1|analog|Basic Melee Weapons|2
+Puzzleblade, Dedication|—|9|13,700|3d6 S|-|—|-|-|1|breakdown|Basic Melee Weapons|2
+Greataxe, Ultrathin|—|10|18,100|2d12 S|-|—|-|-|1|analog|Basic Melee Weapons|2
+Maul, Advanced|—|10|17,200|3d8 B|-|knockdown|-|-|1|analog, unwieldy|Basic Melee Weapons|2
+Scythe, Sintered|—|11|23,200|4d6 S|-|—|-|-|1|analog, trip|Basic Melee Weapons|2
+Spear, Buzzblade|—|11|22,650|3d6 P|20 ft.|—|40 charges|2|1|block, thrown|Basic Melee Weapons|2
+Syringe Spear, Elite|—|11|25,000|3d10 P|-|Injection DC +2|-|-|0.1|injection|Basic Melee Weapons|2
+Garrote, Microfilament|—|12|34,800|4d4 S|-|bleed 1d6|-|-|0.1|analog, conceal, grapple, operative, throttle|Basic Melee Weapons|2
+Living Staff, Advanced|—|12|39,500|4d6 B|-|bind|20 charges|1|1|block, living, reach|Basic Melee Weapons|2
+Chitinblade, Nanoserrated|—|13|46,400|4d8 S|-|bleed 2d8|-|-|1|analog|Basic Melee Weapons|2
+Lance, Elite|—|13|50,800|5d6 P|-|—|-|-|1|analog, reach|Basic Melee Weapons|2
+Greataxe, Molecular Rift|—|14|69,800|4d12 S|-|—|-|-|1|analog|Basic Melee Weapons|2
+Puzzleblade, Moderation|—|14|77,400|7d6 S|-|—|-|-|1|breakdown|Basic Melee Weapons|2
+Maul, Elite|—|15|95,000|3d8 B|-|knockdown|-|-|1|analog, unwieldy|Basic Melee Weapons|2
+Spear, Zero-Edge|—|15|107,350|7d6 P|20 ft.|—|-|-|1|analog, block, thrown|Basic Melee Weapons|2
+Living Staff, Elite|—|16|181,000|12d6 B|-|bind|20 charges|1|1|block, living, reach|Basic Melee Weapons|2
+Scythe, Ultrathin|—|16|160,000|7d8 S|-|—|-|-|1|analog, trip|Basic Melee Weapons|2
+Syringe Spear, Paragon|—|16|165,000|9d8 P|-|Injection DC +2|-|-|0.1|injection|Basic Melee Weapons|2
+Chitinblade, Ultraserrated|—|17|219,000|8d8 S|-|bleed 3d8|-|-|1|analog|Basic Melee Weapons|2
+Garrote, Monowire|—|17|225,000|5d8 S|-|bleed 2d6|-|-|0.1|analog, conceal, grapple, operative, throttle|Basic Melee Weapons|2
+Lance, Paragon|—|18|365,000|11d6 P|-|—|-|-|1|analog, reach|Basic Melee Weapons|2
+Staff, Hardlight|—|18|320,800|8d8 B|-|knockdown|-|-|1|analog, block|Basic Melee Weapons|2
+Puzzleblade, Tradition|—|19|605,000|14d6 S|-|—|-|-|1|breakdown|Basic Melee Weapons|2
+Spear, Gravity|—|19|552,000|12d6 P|20 ft.|—|40 charges|2|1|block, thrown|Basic Melee Weapons|2
+Living Staff, Paragon|—|20|919,000|14d6 B|-|bind|20 charges|1|1|block, living, reach|Basic Melee Weapons|2
+Maul, Paragon|—|20|724,000|15d8 B|-|knockdown|-|-|1|analog, unwieldy|Basic Melee Weapons|2

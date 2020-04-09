@@ -1,0 +1,76 @@
+Name|Level|Price|Damage|Critical|Bulk
+Apocalypse Crystal, Shard|1|150|+1 |corrode 1d4|0
+Electron, Shard|1|280|+1 E|—|0
+Photino Crystals, Shard|1|110|+1 F|—|0
+Photon, Shard|1|145|+1 F|burn 1d4|0
+Tauon, Least|1|235|+1 E|staggered|0
+W-Boson, Shard|1|215|+1 |burn 1d4|0
+Z-Boson, Shard|1|115|+1 |push (5 ft.)|0
+Gluon, Shard|2|770|+1 |wound|0
+Muon, Least|2|760|+1 |—|0
+T-Quark, Least|2|750|+1 |—|0
+Electron, Least|3|1,430|+1d2 E|—|0
+Positron, Least|3|1,310|+1d2 F|irradiate|0
+Muon, Minor|4|2,200|+1d2 |—|0
+Photino Crystals, Least|4|1,850|+1d2 F|burn 1|0
+Tauon, Minor|4|1,850|+1d3 E|staggered|0
+Z-Boson, Least|4|1,950|+1d2 |push (5 ft.)|0
+Apocalypse Crystal, Least|5|3,050|+1d4 |corrode 1d6|0
+Graviton, Least|5|2,900|+1d3 |knockdown|0
+Photon, Least|5|2,950|+1d3 F|burn 1d6|0
+T-Quark, Minor|5|3,000|+1d3 |—|0
+W-Boson, Least|5|3,050|+1d4 |bleed 1d6|0
+Electron, Minor|6|3,850|+1d4 E|—|0
+Gluon, Least|6|3,900|+1d4 |wound|0
+Photino Crystals, Minor|7|5,500|+1d4 F|burn 1d4|0
+Tauon, Lesser|7|6,000|+1d4 E|staggered|0
+T-Quark, Lesser|7|6,950|+1d4 |—|0
+Z-Boson, Minor|7|7,000|+1d4 |push (10 ft.)|0
+Apocalypse Crystal, Minor|8|9,500|+1d6 |corrode 1d6|0
+Graviton, Minor|8|9,200|+1d6 |knockdown|0
+Photon, Minor|8|9,300|+1d6 F|burn 1d6|0
+W-Boson, Minor|8|9,800|+1d6 |bleed 2d6|0
+Electron, Lesser|9|12,100|+1d6 E|—|0
+Gluon, Minor|9|11,500|+1d6 |severe wound|0
+Muon, Lesser|10|18,100|+2d4 |—|0
+Photino Crystals, Lesser|10|17,000|+2d4 F|burn 1d6|0
+Tauon, Standard|10|17,500|+2d4 E|staggered|0
+Z-Boson, Lesser|10|17,500|+1d8 |push (10 ft.)|0
+Apocalypse Crystal, Lesser|11|24,900|+2d6 |corrode 1d6|0
+Graviton, Lesser|11|24,000|+2d6 |knockdown|0
+Photon, Lesser|11|25,100|+2d6 F|burn 1d6|0
+W-Boson, Lesser|11|26,200|+2d6 |bleed 2d6|0
+Electron, Standard|12|30,500|+3d4 E|—|0
+Gluon, Lesser|12|30,800|+2d6 |severe wound|0
+Photino Crystals, Standard|13|46,000|+3d4 F|burn 2d6|0
+Positron, Minor|13|47,000|+2d8 F|irradiate|0
+Tauon, Greater|13|48,400|+3d4 E|staggered|0
+T-Quark, Standard|13|45,000|+1d12 |—|0
+Z-Boson, Standard|13|47,500|+2d8 |push (20 ft.)|0
+Apocalypse Crystal, Standard|14|74,000|+3d6 |corrode 2d6|0
+Graviton, Standard|14|69,800|+3d6 |knockdown|0
+Photon, Standard|14|71,200|+3d6 F|burn 2d6|0
+W-Boson, Standard|14|81,300|+3d6 |bleed 3d6|0
+Electron, Greater|15|93,000|+4d4 E|—|0
+Gluon, Standard|15|94,200|+3d6 |severe wound|0
+Muon, Standard|16|166,000|+6d4 |—|0
+Photino Crystals, Greater|16|145,000|+4d4 F|burn 3d6|0
+Tauon, True|16|161,000|+3d8 E|staggered|0
+T-Quark, Greater|16|175,000|+3d6 |—|0
+Z-Boson, Greater|16|177,500|+3d8 |push (25 ft.)|0
+Apocalypse Crystal, Greater|17|265,000|+4d6 |corrode 2d6|0
+Graviton, Greater|17|251,000|+4d6 |knockdown|0
+Photon, Greater|17|246,200|+4d6 F|burn 3d6|0
+W-Boson, Greater|17|274,100|+4d6 |bleed 4d6|0
+Electron, True|18|332,000|+6d4 E|—|0
+Gluon, Greater|18|330,300|+4d6 |severe wound|0
+Photino Crystals, True|19|495,000|+6d4 F|burn 4d6|0
+Positron, Lesser|19|528,000|+5d6 F|irradiate|0
+Z-Boson, True|19|561,000|+4d8 |push (30 ft.)|0
+Apocalypse Crystal, True|20|776,000|+6d6 |corrode 2d6|0
+Gluon, True|20|916,200|+6d6 |severe wound|0
+Graviton, True|20|727,100|+6d6 |knockdown|0
+Muon, Greater|20|760,000|+10d4 |—|0
+Photon, True|20|729,500|+6d6 F|burn 5d6|0
+T-Quark, True|20|750,000|+6d6 |—|0
+W-Boson, True|20|806,000|+6d6 |bleed 6d6|0
